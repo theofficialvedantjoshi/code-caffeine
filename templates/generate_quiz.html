@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='generate_quiz.css') }}"
+    />
+    <title>Generator</title>
+  </head>
+  <body>
+    <div class="heading">
+      <h1>Quiz Generator</h1>
+    </div>
+    <div class="input-fields">
+      <form action="/quiz" method="post" enctype="multipart/form-data">
+        <label for="file">Upload PDF</label>
+        <input type="file" id="file" name="file" accept=".pdf" required />
+        <label for="topic">Topic:</label>
+        <input type="text" id="topic" name="topic" required />
+        <label for="type">Type:</label>
+        <select id="type" name="type">
+          <option value="" disabled selected>Type of Question</option>
+          {% for type in question_types %}
+          <option value="{{ type }}">{{ type }}</option>
+          {% endfor %}
+        </select>
+        <label for="number_of_q">Number of Questions</label>
+        <input
+          type="number"
+          id="number_of_q"
+          name="number_of_q"
+          min="1"
+          required
+        />
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
