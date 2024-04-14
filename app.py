@@ -32,14 +32,18 @@ history = ""
 @app.route("/courseGPT", methods=["GET", "POST"])
 def courseGPT():
     global history
-    if request.method == "POST":
-        data = request.json
-        data = data["message"]
-        reply = chat_bot(data, history)
-        history += "\n" + "user input: " + data + "\n" + "answer " + reply
-        return jsonify({"message": reply})
-
+    history = ""
     return render_template("courseGPT.html")
+
+
+@app.route("/getResponse", methods=["POST"])
+def getResponse():
+    global history
+    data = request.json
+    data = data["message"]
+    reply = chat_bot(data, history)
+    history += "\n" + "user input: " + data + "\n" + "answer " + reply
+    return jsonify({"message": reply})
 
 
 @app.route("/quiz", methods=["GET", "POST"])
