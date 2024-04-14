@@ -1,15 +1,11 @@
 from typing import List, Optional
 
-from langchain.chains import create_structured_output_runnable
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_openai import ChatOpenAI
 from langchain_text_splitters import TokenTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_core.documents import Document
-from langchain_core.runnables import RunnableLambda
 from langchain_openai import OpenAIEmbeddings
-from langchain_text_splitters import CharacterTextSplitter
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -44,7 +40,7 @@ def extract_info(question):
             (
                 "system",
                 """You are an expert at identifying and exctracting information of courses from text"""
-                "Only extract information for the relevant course.",
+                "Only extract information for the relevant to a course. Do not include any irrelevant information.",
             ),
             # MessagesPlaceholder('examples'), # Keep on reading through this use case to see how to use examples to improve performance
             ("human", "{text}"),
