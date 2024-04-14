@@ -14,22 +14,22 @@ for course_code in course_codes:
     # print(course_code)
     course = data[course_code]
     course_units.append(course["units"])
-    course_names.append(course["course_name"])
+    course_names.append(course["course_name"].strip("\n"))
     temp = []
     for section, details in course["sections"].items():
         temp.append(
             "Section "
-            + section
+            + section.strip("\n")
             + " Instructor: "
-            + " ".join(details["instructor"])
+            + " ".join(details["instructor"]).strip("\n")
             + " Room: "
-            + str(details["schedule"])
+            + str(details["schedule"]).strip("\n")
         )
     course_sections.append(temp)
     course_exams.append(
         [
-            "mid semester exams " + str(course["exams"][0]["midsem"]),
-            "end semester exams " + str(course["exams"][0]["compre"]),
+            "mid semester exams " + str(course["exams"][0]["midsem"]).strip("\n"),
+            "end semester exams " + str(course["exams"][0]["compre"]).strip("\n"),
         ]
     )
     course_descs.append(course["desc"])
@@ -45,3 +45,7 @@ with open("data/course.txt", "w", encoding="utf-8") as file:
         file.write("Course Description: " + course_descs[i] + "\n")
         file.write("Course Books:" + "\n" + "\n".join(course_books[i]) + "\n")
         file.write("\n\n")
+
+# split course.txt into 3 files
+with open("data/course.txt", "r", encoding="utf-8") as f:
+    raw_text = f.read()

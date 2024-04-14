@@ -32,7 +32,7 @@ def extract_info(question):
         )
 
         description: str = Field(..., description="Description of the course")
-        books: str = Field(..., description="Books recommended for the course")
+        books: str = Field(..., description="Course Books of the course")
 
     class ExtractionData(BaseModel):
         """Exctracted Course information from the text file"""

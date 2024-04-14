@@ -23,8 +23,12 @@ llm = ChatOpenAI(
 )
 
 
-def chat_bot(user_input):
-    raw_text = extract_info(user_input)
+history = ""
+
+
+def chat_bot(user_input, history):
+    raw_text = extract_info(user_input + history)
+
     embeddings = OpenAIEmbeddings()
     text_splitter = CharacterTextSplitter(
         separator="\n\n",
@@ -53,12 +57,18 @@ def chat_bot(user_input):
         contextualize_q_prompt,
     )
 
-    qa_system_prompt = """You are CourseGPT, a chatbot that is an expert at telling college students information about their courses.
+    qa_system_prompt = (
+        """You are CourseGPT, a chatbot that is an expert at telling college students information about their courses.
     Your responses are accurate, and crisp. Use the json text that contains information regarding course codes and each course codes units,names, classroom sections, exams details, course description and course books.
     Use the text below:
     ({context}).
 
-    Give an exact answer to the user's question based on the context."""
+    Give an exact answer to the user's question based on the context.
+
+    Also Consider the Users history as mentioned below as context:
+    """
+        + f"({history})"
+    )
     qa_prompt = ChatPromptTemplate.from_messages(
         [
             ("system", qa_system_prompt),
@@ -94,5 +104,6 @@ while True:
     user_input = input("\033[31m" + "You:\033[0m ")
     if user_input.lower() == "exit":
         break
-    answer = chat_bot(user_input)
+    answer = chat_bot(user_input, history)
+    history = history + "\n" + "user input: " + user_input + "\n" + "answer " + answer
     print(f"\033[36m\nCourseGPT:\033[0m \033[34m{answer}\033[0m\n")
