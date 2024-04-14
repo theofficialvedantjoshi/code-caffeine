@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='courseGPT.css') }}"
+    />
+  </head>
+  <body>
+    <div class="chat-container">
+      <div class="chat-box" id="chat-box">
+        <div class="chat-message bot-message">
+          <p>
+            Hi! I'm CourseGPT. I can help you with your course related queries.
+          </p>
+        </div>
+      </div>
+      <input
+        type="text"
+        id="user-input"
+        placeholder="Type your message..."
+        autocomplete="off"
+      />
+      <button id="send-btn">Send</button>
+    </div>
+    <script>
+      const chatBox = document.getElementById("chat-box");
+      const userMessage = document.getElementById("user-input");
+      const sendBtn = document.getElementById("send-btn");
+
+      sendBtn.addEventListener("click", () => {
+        const message = userMessage.value;
+        if (message) {
+          const userDiv = document.createElement("div");
+          userDiv.className = "chat-message user-message";
+          userDiv.innerHTML = `<p>${message}</p>`;
+          chatBox.appendChild(userDiv);
+          userMessage.value = "";
+          chatBox.scrollTop = chatBox.scrollHeight;
+          fetch("/get_response", {
+            method: "POST",
+            body: JSON.stringify({ message: message }),
+            headers: {
+              "Content-Type": "application/json",
+            },
+          })
+            .then((response) => response.json())
+            .then((data) => {
+              const botDiv = document.createElement("div");
+              botDiv.className = "chat-message bot-message";
+              botDiv.innerHTML = `<p>${data.message}</p>`;
+              chatBox.appendChild(botDiv);
+              chatBox.scrollTop = chatBox.scrollHeight;
+            });
+        }
+      });
+
+      userMessage.addEventListener("keyup", (event) => {
+        if (event.key === "Enter") {
+          sendBtn.click();
+        }
+      });
+    </script>
+  </body>
+</html>

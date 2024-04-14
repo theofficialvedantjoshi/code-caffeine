@@ -11,6 +11,29 @@ body {
   color: #fff; /* White text */
 }
 
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.button {
+  background-color: #354e6b; /* Dark blue button */
+  color: #fff; /* White text */
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px; /* Rounded corners */
+  cursor: pointer;
+  font-size: 1.2rem;
+  margin: 20px;
+  transition: background-color 0.3s; /* Smooth transition on hover */
+}
+
+.button:hover {
+  background-color: #2b4057; /* Darker blue on hover */
+}
+
 .heading {
   background-color: #333; /* Darker background for heading */
   color: #fff; /* White text */
@@ -40,8 +63,7 @@ label {
 input[type="file"],
 input[type="text"],
 select,
-input[type="number"],
-button {
+input[type="number"]{
   margin-top: 5px;
   padding: 10px;
   border: none;
@@ -77,16 +99,6 @@ select:focus {
   outline: none;
 }
 
-button {
-  margin-top: 20px;
-  background-color: #354e6b; /* Dark blue button */
-  cursor: pointer;
-  transition: background-color 0.3s; /* Smooth transition on hover */
-}
-
-button:hover {
-  background-color: #2b4057; /* Darker blue on hover */
-}
 
 .loader {
   text-align: center;
@@ -96,15 +108,15 @@ button:hover {
 
 button,
 ::-webkit-file-upload-button {
-  background:  #2b4057;
-  border: 1px solid #b8bfcc;
-  border-radius: 10px;
-  color: #b8bfcc;
-  font-size: 1.2rem;
-  padding: 0.5rem 1rem;
-  margin: 0.5rem;
+  background-color: #354e6b; /* Dark blue button */
+  color: #fff; /* White text */
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px; /* Rounded corners */
   cursor: pointer;
-  transition: 0.3s;
+  font-size: 1.2rem;
+  margin: 20px;
+  transition: background-color 0.3s; /* Smooth transition on hover */
 }
 button:hover,
 ::-webkit-file-upload-button:hover {

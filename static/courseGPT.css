@@ -1,0 +1,64 @@
+/* courseGPT.css */
+*{
+    font-size: 1.2rem;
+}
+
+html {
+  height: 80%;
+}
+body {
+  height: 100%;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1f1f1f; /* Dark background */
+  color: #fff; /* White text */
+}
+
+.chat-container {
+  height: 100%;
+  width: 100%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #333; /* Darker background for chat container */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Shadow effect */
+}
+
+.chat-box {
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #666; /* Divider line */
+}
+
+.chat-box p {
+  margin: 5px 0;
+}
+
+input[type="text"] {
+  width: 90%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  margin-right: 10px;
+  background-color: #222; /* Darker background for input field */
+  color: #fff; /* White text */
+}
+
+#send-btn {
+  width: 70px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  background-color: #354e6b; /* Dark blue button */
+  color: #fff; /* White text */
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition on hover */
+}
+
+#send-btn:hover {
+  background-color: #2b4057; /* Darker blue on hover */
+}
