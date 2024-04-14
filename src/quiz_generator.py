@@ -1,3 +1,6 @@
+import json
+
+import pdfplumber
 from dotenv import load_dotenv
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import ChatPromptTemplate
@@ -29,14 +32,14 @@ def gen_quiz(raw_text, topic, num_questions, type_of_question):
 
     if type_of_question == "mcq":
         user_input = f"""Generate a quiz with {num_questions} questions on {topic} in {type_of_question} format. Also, provide answers to each question at the end of the quiz. Format it as json object with the following structure: 
-        int question_number: 
+        str number: 
             str question: str,
             List options: List[str],
             str answer: str
     """
     else:
         user_input = f"""Generate a quiz with {num_questions} questions on {topic} in {type_of_question} format. Also, provide answers to each question at the end of the quiz. Format it as json object with the following structure: 
-        int question_number: 
+        str number: 
             str question: str,
             str answer: str
     """
@@ -48,11 +51,13 @@ def gen_quiz(raw_text, topic, num_questions, type_of_question):
         {"input_documents": docs, "question": user_input, "prompt": prompt}
     )
 
-    return answer["output_text"]
+    return json.loads(answer["output_text"])
 
 
 if __name__ == "__main__":
-    with open("data/campbell.txt", "r", encoding="utf-8") as f:
-        raw_text = f.read()
+    pdf = pdfplumber.open("files/campbell.pdf")
+    raw_text = ""
+    for page in pdf.pages:
+        raw_text += page.extract_text()
     print(gen_quiz(raw_text, "Calvin Cycle", 2, "fill in the blank"))
     print(gen_quiz(raw_text, "Calvin Cycle", 2, "mcq"))

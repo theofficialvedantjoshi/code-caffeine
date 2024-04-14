@@ -1,3 +1,7 @@
+import json
+import os
+
+import pdfplumber
 from flask import (
     Flask,
     flash,
@@ -5,14 +9,12 @@ from flask import (
     redirect,
     render_template,
     request,
-    url_for,
     send_file,
+    url_for,
 )
-import pdfplumber
 from werkzeug.utils import secure_filename
-import os
+
 from src.quiz_generator import gen_quiz
-import json
 
 app = Flask(__name__)
 
@@ -26,7 +28,6 @@ def home():
 def quiz():
     if request.method == "POST":
         pdf = request.files["file"]
-        # parsefile
         path = "files/" + secure_filename(pdf.filename)
         pdf.save(path)
         pdf = pdfplumber.open(path)
@@ -37,23 +38,30 @@ def quiz():
         topic = request.form["topic"]
         number_of_questions = request.form["number_of_q"]
         question_type = request.form["type"]
-        data = gen_quiz(raw_text, topic, number_of_questions, question_type)
+        data = gen_quiz(
+            raw_text,
+            topic,
+            number_of_questions,
+            "mcq" if question_type == "Multiple Choice" else question_type,
+        )
+
         print(data)
         questions = "test"
         answers = "test"
+
         return render_template(
-            "answers.html",
+            "quiz.html",
             questions=questions,
             answers=answers,
         )
     question_types = [
-        "mcq",
+        "Multiple Choice",
         "True/False",
         "Fill in the Blank",
         "Short Answer",
         "Long Answer",
     ]
-    return render_template("quiz.html", question_types=question_types)
+    return render_template("generate_quiz.html", question_types=question_types)
 
 
 if __name__ == "__main__":
