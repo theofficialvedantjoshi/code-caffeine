@@ -15,6 +15,7 @@ from flask import (
 from werkzeug.utils import secure_filename
 
 from src.quiz_generator import gen_quiz
+from src.courses_gpt import chat_bot
 
 app = Flask(__name__)
 
@@ -24,8 +25,18 @@ def home():
     return render_template("index.html")
 
 
+history = ""
+
+
 @app.route("/courseGPT", methods=["GET", "POST"])
 def courseGPT():
+    global history
+    if request.method == "POST":
+        data = request.json
+        data = data["message"]
+        reply = chat_bot(data, history)
+        history += "\n" + "user input: " + data + "\n" + "answer " + reply
+        return jsonify({"message": reply})
 
     return render_template("courseGPT.html")
 

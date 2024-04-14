@@ -13,7 +13,7 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_openai.chat_models import ChatOpenAI
 from langchain_text_splitters import CharacterTextSplitter
 from dotenv import load_dotenv
-from data_extractor import extract_info
+from src.data_extractor import extract_info
 
 load_dotenv()
 
@@ -100,10 +100,10 @@ def chat_bot(user_input, history):
     )["answer"]
 
 
-while True:
-    user_input = input("\033[31m" + "You:\033[0m ")
-    if user_input.lower() == "exit":
-        break
-    answer = chat_bot(user_input, history)
-    history = history + "\n" + "user input: " + user_input + "\n" + "answer " + answer
-    print(f"\033[36m\nCourseGPT:\033[0m \033[34m{answer}\033[0m\n")
+# while True:
+#     user_input = input("\033[31m" + "You:\033[0m ")
+#     if user_input.lower() == "exit":
+#         break
+#     answer = chat_bot(user_input, history)
+#     history = history + "\n" + "user input: " + user_input + "\n" + "answer " + answer
+#     print(f"\033[36m\nCourseGPT:\033[0m \033[34m{answer}\033[0m\n")
