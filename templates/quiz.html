@@ -3,18 +3,48 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="{{ url_for('static',filename='quiz.css') }}" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='quiz.css') }}"
+    />
     <title>Questions</title>
   </head>
   <body>
     <div class="heading">
-      <h1>Quiz Generator</h1>
+      <h1>{{ question_type }} Quiz based on {{ topic }}</h1>
     </div>
-    <div class="questions">
-      <p>{{questions}}</p>
-    </div>
-    <div class="answers">
-      <p>{{answers}}</p>
+    <div class="quiz">
+      {% for num, question in data.items() %}
+      <h2>Question No {{ num }}</h2>
+      <p><strong>Question:</strong> {{ question["question"] }}</p>
+      {% if question.get("options") %}
+      <ul>
+        {% for option in question["options"] %}
+        <li>{{ option }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      <div class="ans" id="answer_{{ num }}" style="display: none">
+        <p><strong>Answer:</strong> {{ question["answer"] }}</p>
+      </div>
+      <button id="answer_{{ num }} button" onclick="toggleAnswer('{{ num }}')">
+        Show Answer
+      </button>
+      {% endfor %}
     </div>
   </body>
+  <script>
+    function toggleAnswer(num) {
+      var ans = document.getElementById("answer_" + num);
+      if (ans.style.display === "none") {
+        ans.style.display = "block";
+        document.getElementById("answer_" + num + " button").innerText =
+          "Hide Answer";
+      } else {
+        ans.style.display = "none";
+        document.getElementById("answer_" + num + " button").innerText =
+          "Show Answer";
+      }
+    }
+  </script>
 </html>

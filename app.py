@@ -44,15 +44,11 @@ def quiz():
             number_of_questions,
             "mcq" if question_type == "Multiple Choice" else question_type,
         )
-
-        print(data)
-        questions = "test"
-        answers = "test"
-
         return render_template(
             "quiz.html",
-            questions=questions,
-            answers=answers,
+            topic=topic,
+            question_type=question_type,
+            data=data,
         )
     question_types = [
         "Multiple Choice",

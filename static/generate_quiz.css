@@ -1,17 +1,112 @@
-body {
-  background-color: #000000;
-  background-size: cover;
-  background-position: center;
-  font-family: 'Inter', sans-serif;
-  text-align: center; 
+/* generate_quiz.css */
+html {
+  font-size: 1.2rem;
 }
-.heading{
-    font-size: 2.5rem;
-    color: #ffffff;
-    margin-top: 2rem;
-}
-.input-fields{
-    margin-top: 2rem;
-    color:#ffffff;
 
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1f1f1f; /* Dark background */
+  color: #fff; /* White text */
+}
+
+.heading {
+  background-color: #333; /* Darker background for heading */
+  color: #fff; /* White text */
+  padding: 20px;
+  text-align: center;
+}
+
+.input-fields {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #333; /* Darker background for input fields */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Shadow effect */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+  color: #ccc; /* Lighter text for labels */
+}
+
+input[type="file"],
+input[type="text"],
+select,
+input[type="number"],
+button {
+  margin-top: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  background-color: #222; /* Darker background for input fields */
+  color: #fff; /* White text */
+  font-size: 1.2rem;
+}
+
+input[type="file"] {
+  cursor: pointer;
+}
+
+input[type="file"]::-webkit-file-upload-button {
+  padding: 10px;
+  border-radius: 5px; /* Rounded corners */
+  background-color: #354e6b; /* Dark blue button */
+  color: #fff; /* White text */
+  cursor: pointer;
+}
+
+input[type="file"]::-webkit-file-upload-button:hover {
+  background-color: #2b4057; /* Darker blue on hover */
+}
+
+select {
+  appearance: none;
+  cursor: pointer;
+  background-color: #222; /* Darker background for select */
+}
+
+select:focus {
+  outline: none;
+}
+
+button {
+  margin-top: 20px;
+  background-color: #354e6b; /* Dark blue button */
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition on hover */
+}
+
+button:hover {
+  background-color: #2b4057; /* Darker blue on hover */
+}
+
+.loader {
+  text-align: center;
+  margin-top: 20px;
+  color: #ccc; /* Lighter text for loader */
+}
+
+button,
+::-webkit-file-upload-button {
+  background:  #2b4057;
+  border: 1px solid #b8bfcc;
+  border-radius: 10px;
+  color: #b8bfcc;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover,
+::-webkit-file-upload-button:hover {
+  background:  #2b4057;
 }

@@ -34,8 +34,15 @@
           min="1"
           required
         />
-        <button type="submit">Submit</button>
+        <button onclick="loading()" type="submit">Generate Quiz</button>
       </form>
     </div>
+    <div class="loader" id="loader" style="display: none">Loading...</div>
   </body>
+  <script>
+    function loading() {
+      document.getElementById("loader").style.display = "block";
+      document.querySelector("button").style.display = "none";
+    }
+  </script>
 </html>

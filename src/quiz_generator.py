@@ -32,16 +32,21 @@ def gen_quiz(raw_text, topic, num_questions, type_of_question):
 
     if type_of_question == "mcq":
         user_input = f"""Generate a quiz with {num_questions} questions on {topic} in {type_of_question} format. Also, provide answers to each question at the end of the quiz. Format it as json object with the following structure: 
-        str number: 
+        str number (indexed from 1): 
             str question: str,
             List options: List[str],
             str answer: str
+        
+        Strictly return 0 questions if the topic is not relevant to the context and state the question field as "Not relevant to the context".
     """
     else:
         user_input = f"""Generate a quiz with {num_questions} questions on {topic} in {type_of_question} format. Also, provide answers to each question at the end of the quiz. Format it as json object with the following structure: 
-        str number: 
+        str number (indexed from 1): 
             str question: str,
             str answer: str
+
+        Strictly return 0 questions if the topic is not relevant to the context and state the question field as "Not relevant to the context".
+
     """
     llm = ChatOpenAI(name="gpt-3.5-turbo")
     prompt = ChatPromptTemplate.from_template(prompt_template)
@@ -50,8 +55,11 @@ def gen_quiz(raw_text, topic, num_questions, type_of_question):
     answer = chain.invoke(
         {"input_documents": docs, "question": user_input, "prompt": prompt}
     )
-
-    return json.loads(answer["output_text"])
+    print(answer["output_text"])
+    try:
+        return json.loads(answer["output_text"])
+    except:
+        gen_quiz(raw_text, topic, num_questions, type_of_question)
 
 
 if __name__ == "__main__":
