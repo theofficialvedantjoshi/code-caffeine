@@ -13,8 +13,9 @@
     <div class="chat-container">
       <div class="chat-box" id="chat-box">
         <div class="chat-message bot-message">
-          <p>
-            Hi! I'm CourseGPT. I can help you with your course related queries.
+          <p style="color: cyan; padding: 5px">
+            courseGPT: Hi! I'm CourseGPT. I can help you with your course
+            related queries.
           </p>
         </div>
       </div>
@@ -36,11 +37,12 @@
         if (message) {
           const userDiv = document.createElement("div");
           userDiv.className = "chat-message user-message";
-          userDiv.innerHTML = `<p>${message}</p>`;
+          userDiv.innerHTML = `<p>You: ${message}</p>`;
+          userDiv.style.padding = "5px";
           chatBox.appendChild(userDiv);
           userMessage.value = "";
           chatBox.scrollTop = chatBox.scrollHeight;
-          fetch("/get_response", {
+          fetch("/getResponse", {
             method: "POST",
             body: JSON.stringify({ message: message }),
             headers: {
@@ -51,7 +53,9 @@
             .then((data) => {
               const botDiv = document.createElement("div");
               botDiv.className = "chat-message bot-message";
-              botDiv.innerHTML = `<p>${data.message}</p>`;
+              botDiv.innerHTML = `<p>courseGPT: ${data.message}</p>`;
+              botDiv.style.color = "cyan";
+              botDiv.style.padding = "5px";
               chatBox.appendChild(botDiv);
               chatBox.scrollTop = chatBox.scrollHeight;
             });

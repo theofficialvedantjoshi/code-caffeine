@@ -18,9 +18,15 @@ git clone https://github.com/theofficialvedantjoshi/code-caffeine.git
 pip install -r requirements.txt
 ```
 
-3. Add your OpenAI API key in the `.env` file
+3. Create a directory named `files` in the root directory of the project
 
-4. Run the app
+```bash
+mkdir files
+```
+
+4. Add your OpenAI API key in the `.env` file
+
+5. Run the app
 
 ```bash
 python app.py
