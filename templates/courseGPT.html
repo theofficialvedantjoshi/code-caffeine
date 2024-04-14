@@ -28,6 +28,7 @@
       <button id="send-btn">Send</button>
     </div>
     <script>
+      document.getElementById("user-input").focus();
       const chatBox = document.getElementById("chat-box");
       const userMessage = document.getElementById("user-input");
       const sendBtn = document.getElementById("send-btn");
@@ -42,6 +43,13 @@
           chatBox.appendChild(userDiv);
           userMessage.value = "";
           chatBox.scrollTop = chatBox.scrollHeight;
+          const loadingDiv = document.createElement("div");
+          loadingDiv.className = "chat-message bot-message";
+          loadingDiv.innerHTML = `<p>courseGPT: Thinking...</p>`;
+          loadingDiv.style.color = "cyan";
+          loadingDiv.style.padding = "5px";
+          chatBox.appendChild(loadingDiv);
+          chatBox.scrollTop = chatBox.scrollHeight;
           fetch("/getResponse", {
             method: "POST",
             body: JSON.stringify({ message: message }),
@@ -51,11 +59,7 @@
           })
             .then((response) => response.json())
             .then((data) => {
-              const botDiv = document.createElement("div");
-              botDiv.className = "chat-message bot-message";
-              botDiv.innerHTML = `<p>courseGPT: ${data.message}</p>`;
-              botDiv.style.color = "cyan";
-              botDiv.style.padding = "5px";
+              loadingDiv.innerHTML = `<p>courseGPT: ${data.message}</p>`;
               chatBox.appendChild(botDiv);
               chatBox.scrollTop = chatBox.scrollHeight;
             });
