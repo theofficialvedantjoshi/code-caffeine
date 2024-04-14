@@ -1,5 +1,6 @@
 import json
 import os
+import webbrowser
 
 import pdfplumber
 from flask import (
@@ -78,4 +79,5 @@ def quiz():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    webbrowser.open("http://localhost:5000")
+    app.run()
