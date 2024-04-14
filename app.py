@@ -24,6 +24,12 @@ def home():
     return render_template("index.html")
 
 
+@app.route("/courseGPT", methods=["GET", "POST"])
+def courseGPT():
+
+    return render_template("courseGPT.html")
+
+
 @app.route("/quiz", methods=["GET", "POST"])
 def quiz():
     if request.method == "POST":
