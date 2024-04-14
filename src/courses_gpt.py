@@ -13,7 +13,7 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_openai.chat_models import ChatOpenAI
 from langchain_text_splitters import CharacterTextSplitter
 from dotenv import load_dotenv
-from data_extractor import extract_info
+from src.data_extractor import extract_info
 
 load_dotenv()
 
