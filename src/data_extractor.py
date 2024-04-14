@@ -15,20 +15,16 @@ def extract_info(question):
     class Courseinformation(BaseModel):
         """Information about courses in a university."""
 
-        code: str = Field(
-            ..., description="Course code of the course. Example: 'CS F111', 'CS F211'"
-        )
-        name: str = Field(
-            ..., description="Name of the course. Example: 'Data Structures'"
-        )
-        units: str = Field(..., description="Number of units of the course")
+        code: str = Field(..., description="Course code. Example: 'CS F111', 'CS F211'")
+        name: str = Field(..., description="Name. Example: 'Data Structures'")
+        units: str = Field(..., description="Number of units")
         sections: List[str] = Field(
             ...,
             description="Sections of the course in dictionary form Example: 'Section L1 Instructor: XYZ Room: XYZ Days: D1, D2 Hours: hours'",
         )
 
-        description: str = Field(..., description="Description of the course")
-        books: str = Field(..., description="Course Books of the course")
+        description: str = Field(..., description="Description")
+        books: str = Field(..., description="Course Books")
 
     class ExtractionData(BaseModel):
         """Exctracted Course information from the text file"""
