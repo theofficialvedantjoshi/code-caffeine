@@ -3,6 +3,7 @@ import json
 path = "data/courses.json"
 with open(path, "r") as file:
     data = json.load(file)
+
 course_codes = data.keys()
 course_units = []
 course_names = []
@@ -11,7 +12,6 @@ course_exams = []
 course_descs = []
 course_books = []
 for course_code in course_codes:
-    # print(course_code)
     course = data[course_code]
     course_units.append(course["units"])
     course_names.append(course["course_name"].strip("\n"))
@@ -28,8 +28,8 @@ for course_code in course_codes:
     course_sections.append(temp)
     course_exams.append(
         [
-            "mid semester exams " + str(course["exams"][0]["midsem"]).strip("\n"),
-            "end semester exams " + str(course["exams"][0]["compre"]).strip("\n"),
+            "Midsemester exams " + str(course["exams"][0]["midsem"]).strip("\n"),
+            "Comprehensive exams " + str(course["exams"][0]["compre"]).strip("\n"),
         ]
     )
     course_descs.append(course["desc"])
@@ -43,9 +43,5 @@ with open("data/course.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(course_sections[i]) + "\n")
         file.write("\n".join(course_exams[i]) + "\n")
         file.write("Course Description: " + course_descs[i] + "\n")
-        file.write("Course Books:" + "\n" + "\n".join(course_books[i]) + "\n")
-        file.write("\n\n")
-
-# split course.txt into 3 files
-with open("data/course.txt", "r", encoding="utf-8") as f:
-    raw_text = f.read()
+        file.write("Course Books: " + "\n".join(course_books[i]) + "\n")
+        file.write("-" * 50 + "\n")
