@@ -1,5 +1,6 @@
 import os
 
+from dotenv import load_dotenv
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains.history_aware_retriever import create_history_aware_retriever
 from langchain.chains.retrieval import create_retrieval_chain
@@ -11,39 +12,21 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_openai.chat_models import ChatOpenAI
-from langchain_text_splitters import CharacterTextSplitter
-from dotenv import load_dotenv
-from src.data_extractor import extract_info
 
 load_dotenv()
 
-llm = ChatOpenAI(
-    model="gpt-3.5-turbo",
-    temperature=0,
-)
+embeddings = OpenAIEmbeddings()
+llm = ChatOpenAI(name="gpt-3.5-turbo", api_key=os.environ["OPENAI_API_KEY"])
+retriever = FAISS.load_local(
+    "faiss_index", embeddings, allow_dangerous_deserialization=True
+).as_retriever()
 
 
-history = ""
-
-
-def chat_bot(user_input, history):
-    raw_text = extract_info(user_input)
-    if history:
-        raw_text += extract_info(history)
-    embeddings = OpenAIEmbeddings()
-    text_splitter = CharacterTextSplitter(
-        separator="\n\n",
-        chunk_size=10000,
-        chunk_overlap=400,
-    )
-    texts = text_splitter.split_text(raw_text)
-
-    embeddings = OpenAIEmbeddings()
-    retriever = FAISS.from_texts(texts, embeddings).as_retriever()
+def init_chat_bot():
     contextualize_q_system_prompt = """Given a chat history and the latest user question
     which might reference context in the chat history, formulate a standalone question
     which can be understood without the chat history. Do NOT answer the question,
-    just reformulate it if needed and otherwise return it as is."""
+    just reformulate it if needed and otherwise return it as is. Try to keep the most recent message as the focus of the question if related."""
     contextualize_q_prompt = ChatPromptTemplate.from_messages(
         [
             ("system", contextualize_q_system_prompt),
@@ -53,24 +36,16 @@ def chat_bot(user_input, history):
     )
 
     history_aware_retriever = create_history_aware_retriever(
-        llm,
-        retriever,
-        contextualize_q_prompt,
+        llm, retriever, contextualize_q_prompt
     )
 
-    qa_system_prompt = (
-        """You are CourseGPT, a chatbot that is an expert at telling college students information about their courses.
-    Your responses are accurate, and crisp. Use the json text that contains information regarding course codes and each course codes units,names, classroom sections, exams details, course description and course books.
-    Use the text below:
+    qa_system_prompt = """You are CourseGPT, a chatbot that is an expert at telling college students information about their courses.
+    Your responses are accurate, well formatted, and crisp. Use the text below to answer the user's questions:
     ({context}).
-
-    Give an exact answer to the user's question based on the context.
-    Also consider the user's chat history given below to provide a more accurate answer in continuation to previous questions.
-    
-    Chat History:
-    """
-        + history
-    )
+    ---
+    This contains information regarding courses and their course code followed by its units, name, classroom sections, exams details, course description and course books.
+    If you need more information, ask the user for more details.
+    Do not make up information. If you don't know the answer, you can say that you don't know."""
     qa_prompt = ChatPromptTemplate.from_messages(
         [
             ("system", qa_system_prompt),
@@ -97,15 +72,15 @@ def chat_bot(user_input, history):
         history_messages_key="chat_history",
         output_messages_key="answer",
     )
+
+    return conversational_rag_chain
+
+
+def respond(conversational_rag_chain: RunnableWithMessageHistory, user_input):
     return conversational_rag_chain.invoke(
         {"input": user_input}, config={"configurable": {"session_id": "abc123"}}
     )["answer"]
 
 
-# while True:
-#     user_input = input("\033[31m" + "You:\033[0m ")
-#     if user_input.lower() == "exit":
-#         break
-#     answer = chat_bot(user_input, history)
-#     history = history + "\n" + "user input: " + user_input + "\n" + "answer " + answer
-#     print(f"\033[36m\nCourseGPT:\033[0m \033[34m{answer}\033[0m\n")
+if __name__ == "__main__":
+    init_chat_bot()

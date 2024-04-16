@@ -1,22 +1,11 @@
-import json
-import os
 import webbrowser
 
 import pdfplumber
-from flask import (
-    Flask,
-    flash,
-    jsonify,
-    redirect,
-    render_template,
-    request,
-    send_file,
-    url_for,
-)
+from flask import Flask, jsonify, render_template, request
 from werkzeug.utils import secure_filename
 
+from src.courses_gpt import init_chat_bot, respond
 from src.quiz_generator import gen_quiz
-from src.courses_gpt import chat_bot
 
 app = Flask(__name__)
 
@@ -26,23 +15,22 @@ def home():
     return render_template("index.html")
 
 
-history = ""
+conversational_rag_chain = None
 
 
 @app.route("/courseGPT", methods=["GET", "POST"])
 def courseGPT():
-    global history
-    history = ""
+    global conversational_rag_chain
+    conversational_rag_chain = init_chat_bot()
     return render_template("courseGPT.html")
 
 
 @app.route("/getResponse", methods=["POST"])
 def getResponse():
-    global history
+    global conversational_rag_chain
     data = request.json
     data = data["message"]
-    reply = chat_bot(data, history)
-    history += "\n" + "user input: " + data + "\n" + "answer " + reply
+    reply = respond(conversational_rag_chain, data)
     return jsonify({"message": reply})
 
 
