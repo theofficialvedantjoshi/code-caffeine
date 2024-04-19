@@ -12,8 +12,8 @@ with open("data/courses.txt", "r", encoding="utf-8") as f:
 
 text_splitter = CharacterTextSplitter(
     separator="\n",
-    chunk_size=800,
-    chunk_overlap=200,
+    chunk_size=900,
+    chunk_overlap=100,
 )
 texts = text_splitter.split_text(raw_text)
 

@@ -18,25 +18,13 @@ for course_code in course_codes:
     temp = []
     for section, details in course["sections"].items():
         temp.append(
-            "Section "
-            + section.strip("\n")
+            section.strip("\n")
+            .replace("L", "Lecture Section L")
+            .replace("T", "Tutorial Section T")
+            .replace("P", "Practical Section P")
             + "\n\tInstructors: "
             + ", ".join(details["instructor"]).replace("\n", " ")
         )
-        hour_to_time = {
-            1: "08:00 - 08:50",
-            2: "09:00 - 09:50",
-            3: "10:00 - 10:50",
-            4: "11:00 - 11:50",
-            5: "12:00 - 12:50",
-            6: "13:00 - 13:50",
-            7: "14:00 - 14:50",
-            8: "15:00 - 15:50",
-            9: "16:00 - 16:50",
-            10: "17:00 - 17:50",
-            11: "18:00 - 18:50",
-            12: "19:00 - 19:50",
-        }
         day_to_name = {
             "M": "Mon",
             "T": "Tue",
@@ -47,14 +35,18 @@ for course_code in course_codes:
             "Su": "Sun",
         }
         for i, schedule in enumerate(details["schedule"]):
+            start = schedule["hours"][0] + 7
+            end = schedule["hours"][-1] + 7
+            time = f"{start:02d}:00 - {end:02d}:50"
             temp.append(
                 "\tRoom: "
                 + schedule["room"]
                 + "; Days: "
                 + ", ".join([day_to_name[day] for day in schedule["days"]])
-                + "; Hours: "
-                + ", ".join([hour_to_time[hour] for hour in schedule["hours"]])
+                + "; Time: "
+                + time
             )
+
     course_sections.append(temp)
     course_exams.append(
         [
@@ -63,17 +55,17 @@ for course_code in course_codes:
         ]
     )
     course_descs.append(course["desc"])
-    course_books.append(course.get("books", "No books mentioned"))
+    course_books.append(
+        [i.replace("\n", " ") for i in course.get("books", "No books mentioned")]
+    )
 course_codes = list(course_codes)
 with open("data/courses.txt", "w", encoding="utf-8") as file:
     for i in range(len(course_codes)):
-        file.write("Code: " + course_codes[i] + "\n")
-        file.write("Name: " + course_names[i] + "\n")
+        file.write("Course Code: " + course_codes[i] + "\n")
+        file.write("Course Name: " + course_names[i].replace("\n", " ") + "\n")
         file.write("Units: " + str(course_units[i]) + "\n")
         file.write("\n".join(course_sections[i]) + "\n")
         file.write("\n".join(course_exams[i]) + "\n")
         file.write("Description: " + course_descs[i] + "\n")
-        file.write(
-            "Books:\n\t" + "\n".join(course_books[i]).replace("\n", "\n\t") + "\n"
-        )
+        file.write("Books:\n\t" + "\n\t".join(course_books[i]) + "\n")
         file.write("-" * 50 + "\n")
