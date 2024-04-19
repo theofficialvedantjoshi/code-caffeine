@@ -27,6 +27,7 @@ def gen_quiz(raw_text, topic, num_questions, type_of_question):
     Your responses are accurate, and detailed. Generate a quiz with number questions given by the user and in the format given by the user based on the following: {context}.
     Make the level of the questions intermediate to advanced.
     Do not ask straightforward and easy questions.
+    Strictly stick to the topics relevant to the context. Do not deviate from the context.
     Don't create any false information on your own.
     """
 
