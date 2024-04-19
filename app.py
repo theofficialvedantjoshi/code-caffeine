@@ -30,7 +30,7 @@ def getResponse():
     global conversational_rag_chain
     data = request.json
     data = data["message"]
-    reply = respond(conversational_rag_chain, data)
+    reply = respond(conversational_rag_chain, data).replace("\n", "<br>")
     return jsonify({"message": reply})
 
 
