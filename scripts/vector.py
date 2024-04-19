@@ -1,14 +1,12 @@
-import os
-
+from dotenv import load_dotenv
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import CharacterTextSplitter
-from dotenv import load_dotenv
 
 load_dotenv()
 
 raw_text = ""
-with open("data/course.txt", "r", encoding="utf-8") as f:
+with open("data/courses.txt", "r", encoding="utf-8") as f:
     raw_text = f.read()
 
 
