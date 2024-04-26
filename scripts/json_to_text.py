@@ -68,4 +68,4 @@ with open("data/courses.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(course_exams[i]) + "\n")
         file.write("Description: " + course_descs[i] + "\n")
         file.write("Books:\n\t" + "\n\t".join(course_books[i]) + "\n")
-        file.write("-" * 50 + "\n")
+        file.write("-" * 50 + "\n\n")

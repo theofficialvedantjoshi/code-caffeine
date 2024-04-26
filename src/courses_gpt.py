@@ -46,7 +46,8 @@ def init_chat_bot():
     This contains information regarding courses offered by BITS Pilani, Hyderabad Campus; namely, course code, units, name, classroom sections, exams details, course description and course books.
     If you need more information, ask the user for more details.
     Strictly do not make up any information. If you don't know the answer, you can say that you don't know.
-    Format your answer using html."""
+    Format your answer using html.
+    Do not return structural data directly from the database. Instead, return the information in a more summarized and readable format."""
     qa_prompt = ChatPromptTemplate.from_messages(
         [
             ("system", qa_system_prompt),

@@ -17,6 +17,7 @@ chanics OR MF 218 Transport Phenomena in Manufacturing
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: AN F314
 Course Name: INTRODUCTION TO FLIGHT
 Units: 3.0
@@ -36,6 +37,7 @@ Books:
 	(i) John D. Anderson Introduction to Flight 6th Edition, McGraw Hill, (Special Indian edition) 2017
 	(ii) T. H. G. Megson Aircraft structures for engineering students Elsevier India, 2005
 --------------------------------------------------
+
 Course Code: AN F315
 Course Name: AIRCRAFT STRUCTURES
 Units: 3.0
@@ -59,6 +61,7 @@ Books:
 	1. Megson T.H.G., “Aircraft Structures for Engineering Students&quot; Butterworth-Heinemann (Elsevier), 7 th Edition, UK, 2022.
 	2. Sun C. T., Adnan A., “Mechanics of Aircraft Structures”, 3 rd Edition, Wiley, NJ, USA, 2021.
 --------------------------------------------------
+
 Course Code: BIO F110
 Course Name: BIOLOGY LABORATORY
 Units: 1.0
@@ -108,6 +111,7 @@ tification from the plant organs; Water analysis.
 Books:
 	Same as Part iv: Biology Faculty MT-I Biology, Notes EDD, 2007 Lab Manual for Biology Laboratory Notes EDD, 2012
 --------------------------------------------------
+
 Course Code: BIO F111
 Course Name: GENERAL BIOLOGY
 Units: 3.0
@@ -155,6 +159,7 @@ V
 Books:
 	Simon, E.J. et. al. Campbell Essential Biology with Physiology (5th edition). Noida: Pearson India Education Services Pvt. Ltd., 2016
 --------------------------------------------------
+
 Course Code: BIO F215
 Course Name: BIOPHYSICS
 Units: 3.0
@@ -172,6 +177,7 @@ and related labs.
 Books:
 	J. A. Tuszynski and M. Kurzynski Introduction to Molecular Biophysics CRC Press (Indian Edition), Chennai
 --------------------------------------------------
+
 Course Code: BIO F217
 Course Name: LAB FOR WATER SANITATION & SOLID WASTE MANAGEMENT
 Units: 3.0
@@ -196,6 +202,7 @@ ter composting of faecal sludge.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: BIO F241
 Course Name: ECOLOGY & ENVIRONMENTAL SCIENCE
 Units: 3.0
@@ -215,6 +222,7 @@ ment. Associated with related labs.
 Books:
 	Odum, Eugene P & G.W Barrett Fundamentals of Ecology Cengage Learning, 5th ed, 2006
 --------------------------------------------------
+
 Course Code: BIO F242
 Course Name: INTRODUCTION TO BIOINFORMATICS
 Units: 3.0
@@ -235,6 +243,7 @@ ware package in Bioinformatics; Related lab components.
 Books:
 	LESK, ARTHUR M INTRO TO BIOINFORMATICS OUP, 3RD ED., 2009
 --------------------------------------------------
+
 Course Code: BIO F243
 Course Name: GENETICS
 Units: 3.0
@@ -252,6 +261,7 @@ genetics and species concept and related labs.
 Books:
 	Tamarin, Robert H. Principles of Genetics TMH, 7th ed., 2002
 --------------------------------------------------
+
 Course Code: BIO F244
 Course Name: INSTRU METHODS OF ANAL
 Units: 4.0
@@ -277,6 +287,7 @@ Books:
 	(i) Sivasankar et. al Instrumental Methods of Analysis CBS Oxford University Press, New Delhi, 1st 2012
 	(ii) Mahesh et. al Lab Manual for PHA C391 IMA 2008
 --------------------------------------------------
+
 Course Code: BIO F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -292,6 +303,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BIO F341
 Course Name: DEVELOPMENTAL BIOLOGY
 Units: 3.0
@@ -314,6 +326,7 @@ components.
 Books:
 	Wolpert, Lewis & Others Principles of Development OUP, 5rd ed, 2015
 --------------------------------------------------
+
 Course Code: BIO F342
 Course Name: IMMUNOLOGY
 Units: 3.0
@@ -334,6 +347,7 @@ Immunology; Related lab components.
 Books:
 	Owen et al Kuby's Immunology 7th Ed. Freeman press. 2013
 --------------------------------------------------
+
 Course Code: BIO F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -345,6 +359,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BIO F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -360,6 +375,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BIO F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -371,6 +387,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BIO F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -386,6 +403,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BIO F451
 Course Name: BIOPROCESS TECHNOLOGY
 Units: 3.0
@@ -406,6 +424,7 @@ plications of Bioprocesses; Bioprocess Patenting & Economics.
 Books:
 	Stanbury, Whitaker & Hall Principles of Fermentation Technology (1997) Aditya Books (P) Ltd
 --------------------------------------------------
+
 Course Code: BIO G523
 Course Name: ADV & APPLIED MICROBIO
 Units: 5.0
@@ -424,6 +443,7 @@ ology and synthetic microbiology.
 Books:
 	Madigan MT, Martinko JM, Dunlop P.V, Clark D P Brock biology of Microorganisms Pearson 12th Ed
 --------------------------------------------------
+
 Course Code: BIO G542
 Course Name: ADVANCED CELL AND MOLECULAR BIOLOGY
 Units: 5.0
@@ -445,6 +465,7 @@ action; apoptosis, caspases and necrosis.
 Books:
 	Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts and Peter Walter Molecular Biology of the Cell Garland Publishing Inc., New York and London, 2008
 --------------------------------------------------
+
 Course Code: BIO G570
 Course Name: RECENT DEVELOPMENTS IN BIOLOGY
 Units: 1.0
@@ -461,6 +482,7 @@ proaches to the selected topics.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BIO G643
 Course Name: PLANT BIOTECHNOLOGY
 Units: 5.0
@@ -484,6 +506,7 @@ Books:
 	(i) Narayanaswamy S. Plant Cell and Tissue Culture Tata McGraw Hill Publishing Company Limited, 1994 (Tenth Reprint 2011)
 	(ii) Adrian Slater Nigel W. Scott, and Mark R. Fowler Plant Biotechnology: The Genetic manipulation of plants (Second edition) Oxford University Press (Reprint 2010)
 --------------------------------------------------
+
 Course Code: BITS C790T
 Course Name: INDEPENDENT STUDY
 Units: 1.0
@@ -495,6 +518,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS C791T
 Course Name: TEACHING PRACTICE I
 Units: 1.0
@@ -506,6 +530,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS C792T
 Course Name: TEACHING PRACTICE II
 Units: 1.0
@@ -517,6 +542,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS C797T
 Course Name: PHD SEMINAR
 Units: 1.0
@@ -528,6 +554,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS C799T
 Course Name: PHD THESIS
 Units: 10.0
@@ -539,6 +566,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS E593
 Course Name: READING COURSE I
 Units: 5.0
@@ -550,6 +578,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS E594
 Course Name: READING COURSE II
 Units: 5.0
@@ -561,6 +590,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS E661
 Course Name: RESEARCH METHODOLOGY I
 Units: 5.0
@@ -573,6 +603,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS E793T
 Course Name: PRACTICE LECT SERIES I
 Units: 1.0
@@ -584,6 +615,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F110
 Course Name: ENGINEERING GRAPHICS
 Units: 2.0
@@ -653,6 +685,7 @@ Description:
 Books:
 	Kulkarni D M and Others Engineering Graphics with AutoCAD PHI,2009
 --------------------------------------------------
+
 Course Code: BITS F111
 Course Name: THERMODYNAMICS
 Units: 3.0
@@ -704,6 +737,7 @@ Books:
 	(i) Borgnakke Sonntag Fundamentals of Thermodynamics 10th Edition, Wiley India Adaptation
 	(ii) Van Wylen& others Thermodynamics Tables, Figures and Charts Notes-EDD, 2007
 --------------------------------------------------
+
 Course Code: BITS F112
 Course Name: TECHNICAL REPORT WRITING
 Units: 2.0
@@ -725,6 +759,7 @@ presentation.
 Books:
 	Hewings, M. and Thaine C Cambridge Academic English (Advanced) Student’s Book First South Asian Edition. Cambridge University Press
 --------------------------------------------------
+
 Course Code: BITS F114
 Course Name: GENERAL MATHEMATICS II
 Units: 3.0
@@ -746,6 +781,7 @@ Books:
 	(i) Weir, MD, Hass J, Giordano FR Thomas Calculus Pearson education 13th Ed, 2007
 	(ii) Erwin Kreyszig Advanced Engineering Mathematics 10th Edition Wiley-India, 2015
 --------------------------------------------------
+
 Course Code: BITS F219
 Course Name: PROCESS ENGINEERING
 Units: 3.0
@@ -773,6 +809,7 @@ Books:
 	(i) Lachman, L., Lieberman, H. A., Kanig, J. L. The Theory and Practice of Industrial Pharmacy Lea-F, 3rd ed., 1986
 	(ii) Aulton M. E Pharmaceutics: The Design of Manufacture of Medicine, Dosage form Design Churchill Livingstone, 2nd Edition, 2002
 --------------------------------------------------
+
 Course Code: BITS F225
 Course Name: ENVIRONMENTAL STUDIES
 Units: 3.0
@@ -792,6 +829,7 @@ vironmental impact assessment.
 Books:
 	Bharucha, E Textbook for Environmental Studies for Undergraduate Courses Second ed. Hyderabad: Universities Press. 2013
 --------------------------------------------------
+
 Course Code: BITS F232
 Course Name: FOUNDATIONS OF DATA STRUCTURES AND ALGORITHMS
 Units: 4.0
@@ -815,6 +853,7 @@ tures, Hashing, Non-Linear Structures, Graphs and Algorithms.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: BITS F235
 Course Name: DIGITAL FUNDAMENTALS
 Units: 4.0
@@ -846,6 +885,7 @@ offered at RMIT.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: BITS F314
 Course Name: GAME THEORY AND ITS APPLICATIONS
 Units: 3.0
@@ -866,6 +906,7 @@ Books:
 	(i) Osborne, M.J. An Introduction to Game Theory Oxford University Press, India 2004
 	(ii) Gibbons, R Game Theory for Applied Economists Princeton 1992
 --------------------------------------------------
+
 Course Code: BITS F315
 Course Name: INTRODUCTION TO COGNITIVE NEUROSCIENCE
 Units: 3.0
@@ -882,6 +923,7 @@ Social Cognition and Metacognition.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F327
 Course Name: ARTIFICIAL INTELLIGENCE FOR ROBOTICS
 Units: 3.0
@@ -910,6 +952,7 @@ Model.
 Books:
 	Russell, Stuart J., and Peter Norvig. Artificial intelligence: a modern approach. Malaysia Pearson Education Limited,, 2016.
 --------------------------------------------------
+
 Course Code: BITS F385
 Course Name: INTRO TO GENDER STUDIES
 Units: 3.0
@@ -929,6 +972,7 @@ media, gender equity-policy issues, women and development.
 Books:
 	Mary E. John Women’s studies in India A Reader, New Delhi: Penguin Books India Pvt. Ltd 2008
 --------------------------------------------------
+
 Course Code: BITS F412
 Course Name: PRACTICE SCHOOL II
 Units: 20.0
@@ -940,6 +984,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F413
 Course Name: PRACTICE SCHOOL II
 Units: 20.0
@@ -958,6 +1003,7 @@ pleted Thesis option for one degree.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F415
 Course Name: INTRODUCTION TO MEMS
 Units: 4.0
@@ -979,6 +1025,7 @@ ufacturing; microfludidics; microrobotics; case studies.
 Books:
 	Tai-Ran Hsu MEMS and Micro systems Design and Manufacture Tata McGraw Hill, 2002
 --------------------------------------------------
+
 Course Code: BITS F417
 Course Name: MICRO-FLUIDICS & ITS APP
 Units: 4.0
@@ -997,6 +1044,7 @@ CAD tool.
 Books:
 	Nam-Trung Nguyen and Steven T. Wereley 1. Fundamentals and applications of microfluidics Artech House, 2002
 --------------------------------------------------
+
 Course Code: BITS F418
 Course Name: INTRO TO BIOMEDICAL ENGG
 Units: 4.0
@@ -1014,6 +1062,7 @@ omedical sensors; Modeling and simulation.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: BITS F421T
 Course Name: THESIS
 Units: 16.0
@@ -1025,6 +1074,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F422T
 Course Name: THESIS
 Units: 16.0
@@ -1044,6 +1094,7 @@ pleted Thesis option for one degree.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F423T
 Course Name: THESIS
 Units: 9.0
@@ -1055,6 +1106,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F424T
 Course Name: THESIS
 Units: 9.0
@@ -1069,6 +1121,7 @@ at most 9 Units over a full semester duration.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS F428
 Course Name: ESSENTIALS OF STRATE MGT
 Units: 3.0
@@ -1088,6 +1141,7 @@ Books:
 	(i) Adrian Haberberg& Alison Rieple Strategic Management Theory & Application Oxford
 	(ii) Charles W L Hill / Gareth R Jones Strategic Management – An Integrated Approach
 --------------------------------------------------
+
 Course Code: BITS F441
 Course Name: ROBOTICS
 Units: 3.0
@@ -1105,6 +1159,7 @@ analysis, and representation of visual world.
 Books:
 	Mittal R. K. & Nagrath I. J Robotics and Control TMH, 2003 (Reprint 2007 or later)
 --------------------------------------------------
+
 Course Code: BITS F442
 Course Name: REMOTE SENS & IMAGE PROC
 Units: 3.0
@@ -1125,6 +1180,7 @@ opments in remote sensing; LIDAR; imaging spectroscopy etc.
 Books:
 	Lillesand TM and Kiefer RW Remote Sensing and Image interpretation John Wiley & Sons, 7 th ed. 2015
 --------------------------------------------------
+
 Course Code: BITS F463
 Course Name: CRYPTOGRAPHY
 Units: 3.0
@@ -1141,6 +1197,7 @@ pseudo-randomness.
 Books:
 	William Stallings Cryptography and Network Security: Principles and Practice 7th Edition, Pearson Education, 2017
 --------------------------------------------------
+
 Course Code: BITS F464
 Course Name: MACHINE LEARNING
 Units: 3.0
@@ -1161,6 +1218,7 @@ Books:
 	(i) Christopher M. Bishop Pattern Recognition AND Machine Learning Springer publishers
 	(ii) Tom M. Mitchell Machine Learning The McGraw-Hill Companies, Inc
 --------------------------------------------------
+
 Course Code: BITS G513
 Course Name: STUDY IN ADVANCED TOPICS
 Units: 5.0
@@ -1180,6 +1238,7 @@ provide guidance for study work.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G527
 Course Name: DATA SCIENCES II
 Units: 5.0
@@ -1193,6 +1252,7 @@ Books:
 	(i) Arjun, Panesar Machine Learning and AI for Healthcare: Big Data for Improved Health Outcomes Apress: London, UK (2019)
 	(ii) Aggarwal Charu C. Data mining: the textbook Springer, 2015
 --------------------------------------------------
+
 Course Code: BITS G529
 Course Name: RESEARCH PROJECT I
 Units: 6.0
@@ -1204,6 +1264,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G539
 Course Name: RESEARCH PROJECT II
 Units: 6.0
@@ -1223,6 +1284,7 @@ ing all the investigative efforts and conclusions.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G540
 Course Name: RESEARCH PRACTICE
 Units: 4.0
@@ -1240,6 +1302,7 @@ structured manner.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G563T
 Course Name: DISSERTATION
 Units: 16.0
@@ -1251,6 +1314,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G629T
 Course Name: DISSERTATION
 Units: 16.0
@@ -1267,6 +1331,7 @@ to 10 units) along with other courses.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G639
 Course Name: PRACTICE SCHOOL
 Units: 20.0
@@ -1283,6 +1348,7 @@ tion of this course.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G649
 Course Name: READING COURSE
 Units: 5.0
@@ -1294,6 +1360,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: BITS G661
 Course Name: RESEARCH METHODOLOGY I
 Units: 5.0
@@ -1306,6 +1373,7 @@ Description:
 Books:
 	C.George Thomas Research Methodology and Scientific Writing Ane Books Pvt. Ltd., 2015
 --------------------------------------------------
+
 Course Code: CE F241
 Course Name: ANALYSIS OF STRUCTURES
 Units: 3.0
@@ -1330,6 +1398,7 @@ posure to relevant software.
 Books:
 	Hibbeler,R C Structural Analysis Pearson Education; Ninth edition (27 October 2017)
 --------------------------------------------------
+
 Course Code: CE F242
 Course Name: CONSTRUCTION PLANNING & TECH
 Units: 3.0
@@ -1357,6 +1426,7 @@ ware.
 Books:
 	Punmia, B C, Ashok K Jain and Arun K Jain Building Construction Eleventh Edition, Laxmi Publications Ltd, New Delhi, 2016
 --------------------------------------------------
+
 Course Code: CE F243
 Course Name: SOIL MECHANICS
 Units: 4.0
@@ -1391,6 +1461,7 @@ ries and in-situ tests. Exposure to relevant software.
 Books:
 	Gopal Ranjan and A. S. R. Rao Basic and Applied Soil Mechanics New Age International Publishers, 3rd Edition, 2016
 --------------------------------------------------
+
 Course Code: CE F244
 Course Name: HIGHWAY ENGINEERING
 Units: 4.0
@@ -1431,6 +1502,7 @@ Books:
 	(i) Khanna, S.K, Justo, A and Veeraragavan, A Highway Engineering Nem Chand & Bros. Revised Tenth Edition, 2014
 	(ii) Khanna, S.K, Justo, A and Veeraragavan, A Highway Materials and Pavement Testing Nem Chand & Bros., Fifth Edition, 2009 (For Lab Portion)
 --------------------------------------------------
+
 Course Code: CE F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -1446,6 +1518,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CE F321
 Course Name: ENGINEERING HYDROLOGY
 Units: 3.0
@@ -1467,6 +1540,7 @@ Books:
 	(i) Subramanya K Engineering Hydrology Tata McGraw hill, New Delhi. 2013.
 	(ii) Modi, P.N. Irrigation Water Resources and Water Power Engineering Standard Book House, New Delhi, 2012
 --------------------------------------------------
+
 Course Code: CE F342
 Course Name: WATER & WASTEWATER TREAT
 Units: 4.0
@@ -1492,6 +1566,7 @@ Books:
 	(i) Garg, S. K. (2020). Environmental Engineering - (Vol. I): Water Supply Engineering (34th ed., Vol. 1) Khanna
 	(ii) Garg, K. S. (2021). Environmental Engineering (Vol. II) Sewage Waste Disposal and Air Pollution Engineering (39th ed., Vol. 2). Khanna.
 --------------------------------------------------
+
 Course Code: CE F343
 Course Name: DESIGN OF STEEL STRUCTURES
 Units: 3.0
@@ -1514,6 +1589,7 @@ Books:
 	(ii) IS-800:2007 Code of practice for General construction in steel Bureau of Indian Standards, New Delhi
 	(iii) R. Agor Steel Tables Birla. Publications, 2017
 --------------------------------------------------
+
 Course Code: CE F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -1525,6 +1601,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CE F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -1540,6 +1617,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CE F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -1551,6 +1629,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CE F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -1566,6 +1645,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CE F411
 Course Name: OPER RESEARCH FOR ENGIN
 Units: 3.0
@@ -1584,6 +1664,7 @@ making under certainty, risk, and uncertainty.
 Books:
 	HA Taha Operations Research: An Introduction Pearson Education/PHI, 9/E, 2014.
 --------------------------------------------------
+
 Course Code: CE F415
 Course Name: DES OF PREST CONC STRUCT
 Units: 3.0
@@ -1600,6 +1681,7 @@ stressed concrete girders.
 Books:
 	Krishna Raju, N Prestressed Concrete 6th Edition, Tata McGraw-Hill Publishing Company Ltd., 2018
 --------------------------------------------------
+
 Course Code: CE F416
 Course Name: COMP APPL IN CIVIL ENGG
 Units: 4.0
@@ -1618,6 +1700,7 @@ ments on industry related problems using the above software.
 Books:
 	Amin Ghali, Adam Neville, and Tom G. Brown Structural Analysis: A Unified Classical and Matrix Approach 2009, 6th Ed., CRC Press.
 --------------------------------------------------
+
 Course Code: CE F423
 Course Name: GREEN BUILD & ENER CONSE
 Units: 3.0
@@ -1638,6 +1721,7 @@ Books:
 	(i) Krishnan, A., Baker, N., Yannas, S., & Szokolay, S Climate responsive architecture, a design handbook for energy efficient buildings New Delhi: Tata McGraw–Hill Publishing Company
 	(ii) TERI & ICAEN Sustainable building design manual (Vol. II). New Delhi: The Energy and Resources Institute( TERI)Press
 --------------------------------------------------
+
 Course Code: CE F425
 Course Name: AIRPORT RAIL & WATERWAYS
 Units: 3.0
@@ -1664,6 +1748,7 @@ Books:
 	(ii) R. Srinivasan Harbour, Dock and Tunnel Engineering 29th Edition, Charotar Publishing House Pvt. Ltd. 2018
 	(iii) Saxena SC and Arora S C A Text Book of Railway Engineering Paperback Dhanpat Rai Publications (Reprint 2015)
 --------------------------------------------------
+
 Course Code: CE G514
 Course Name: STRUCTURAL OPTIMIZATION
 Units: 4.0
@@ -1692,6 +1777,7 @@ buildings, water tank, shell roofs, folded plates.
 Books:
 	Rao, S S Engineering Optimization, Theory and Practice New Age International Publishers, Fourth Edition, 2013.
 --------------------------------------------------
+
 Course Code: CE G518
 Course Name: PAVEMENT ANALYSIS & DES
 Units: 4.0
@@ -1725,6 +1811,7 @@ Books:
 	(i) Yang H Huang (2010) Pavement Analysis and Design Pearson, Prentice Hall, NJ, USA 2nd Edition
 	(ii) AASHTO Mechanistic Empirical Pavement Design Guide – A Manual of Practice USA, 2nd Edition
 --------------------------------------------------
+
 Course Code: CE G566
 Course Name: PUBLIC TRANSPORTATION
 Units: 4.0
@@ -1754,6 +1841,7 @@ Books:
 	(i) Vuchic Vukan R Urban Transit: Operations, Planning and Economics John Wiley & Sons, Inc.; 2005
 	(ii) Vukan R. Vuchic Urban Transit Systems and Technology John Wiley & Sons, Inc. 2007 Edition
 --------------------------------------------------
+
 Course Code: CE G570
 Course Name: HIGHWAY CONSTRUCTION TECHNOLOG
 Units: 4.0
@@ -1783,6 +1871,7 @@ Books:
 	(i) Kandhal Text book on Bituminous Road Construction in India PHI, Revised Edition (2019).
 	(ii) MoRTH Book of specifications for Roads and Bridge works IRC, Latest Revision, 2013, New Delh
 --------------------------------------------------
+
 Course Code: CE G575
 Course Name: FREIGHT TRANSPORTATION
 Units: 4.0
@@ -1814,6 +1903,7 @@ Books:
 	(i) Tavasszy, L., and DeJong, G Modeling Freight Transport Elsevier 1st Edition 2014
 	(ii) Sunil Chopra, Peter Meindl and D V Kalra Supply Chain Management: Strategy, planning and Operation Pearson Education, Sixth Edition, India, 201
 --------------------------------------------------
+
 Course Code: CE G613
 Course Name: ADV CONCRETE STRUCTURES
 Units: 4.0
@@ -1834,6 +1924,7 @@ buildings, detailing in concrete structures.
 Books:
 	Varghese P C Adv. Reinforced Concrete Design PHI, 2nd ed 2005
 --------------------------------------------------
+
 Course Code: CE G615
 Course Name: EARTHQUAKE ENGINEERING
 Units: 4.0
@@ -1856,6 +1947,7 @@ Books:
 	(i) Agarwal P and Shrikhande M Earthquake resistant design of Structures PHI ,2006
 	(ii) S K Duggal Earthquake resistant design of Structures OUP 2007
 --------------------------------------------------
+
 Course Code: CE G616
 Course Name: BRIDGE ENGINEERING
 Units: 4.0
@@ -1876,6 +1968,7 @@ es; substructure design for bridges.
 Books:
 	Johnson D Victor Essentials of Bridge Engineering 6th Edition, Oxford & IBH Publishing Co. Pvt. Ltd., New Delhi 2010
 --------------------------------------------------
+
 Course Code: CHE F241
 Course Name: HEAT TRANSFER
 Units: 3.0
@@ -1901,6 +1994,7 @@ Books:
 	(i) Holman J.P. Heat Transfer TMH, 10th ed. , 2011
 	(ii) McCabe, W.L., J.C. Smith, and P. Harriott Unit Operations of Chemical Engineering (7th Ed.)”, McGraw Hill, 2005
 --------------------------------------------------
+
 Course Code: CHE F242
 Course Name: NUM METHOD FOR CHEM ENGG
 Units: 3.0
@@ -1927,6 +2021,7 @@ gineering applications
 Books:
 	Steven C. Chapra, Raymond P. Canale “Numerical Methods for Engineers” Tata McGraw-Hill 6th Edition 2012
 --------------------------------------------------
+
 Course Code: CHE F243
 Course Name: MATERIAL SCIENCE & ENGINEERING
 Units: 3.0
@@ -1955,6 +2050,7 @@ als, energy saving materials etc); Criteria for material selection.
 Books:
 	William D Callister Material Science and Engineering - An Introduction JR. Ninth Edition, John Wiley (2013)
 --------------------------------------------------
+
 Course Code: CHE F244
 Course Name: SEPARATION PROCESSES I
 Units: 3.0
@@ -1977,6 +2073,7 @@ Books:
 	(i) Robert E. Treybal Mass Transfer Operations Third Edition, McGraw Hill
 	(ii) J. D.Seader and Ernest J. Henley Separation Process principles Second Edition, Wiley.
 --------------------------------------------------
+
 Course Code: CHE F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -1992,6 +2089,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHE F315
 Course Name: MACHINE LEARNING FOR CHE ENG
 Units: 3.0
@@ -2017,6 +2115,7 @@ gineers OR MATH F313: Numerical Analysis
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: CHE F341
 Course Name: CHEMICAL ENGG LAB II
 Units: 3.0
@@ -2036,6 +2135,7 @@ I-26
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHE F342
 Course Name: PROCESS DYN & CONTROL
 Units: 3.0
@@ -2067,6 +2167,7 @@ Books:
 	(i) Seborg, Dale E and others Process Dynamics and Control WSE, 2nd ed, 2004
 	(ii) Coughanowr, D.R. and Steven E LeBlanc Process Systems Analysis and Control, 3nd Ed McGraw-Hill, 2009.
 --------------------------------------------------
+
 Course Code: CHE F343
 Course Name: PROCESS DES PRINCIPLE II
 Units: 3.0
@@ -2087,6 +2188,7 @@ salinators, fuel cells, hand warmers etc.
 Books:
 	1. Seider W.D., Seader J.D. & Lewin D.R Product and Process Design principles: Synthesis, Analysis and Evaluation John Wiley & Sons, Inc., 2nd edition
 --------------------------------------------------
+
 Course Code: CHE F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -2098,6 +2200,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHE F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -2113,6 +2216,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHE F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -2124,6 +2228,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHE F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -2139,6 +2244,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHE F411
 Course Name: ENVIR POLLUTION CONTROL
 Units: 3.0
@@ -2156,6 +2262,7 @@ Books:
 	(i) Davis, M.L. and D.A. Cornwell Introduction to Environmental Engg. TMH, 4th ed., 2010
 	(ii) Rao, C S Environmental Pollution Control Engineering New Age International 2nd Ed., 2006
 --------------------------------------------------
+
 Course Code: CHE F433
 Course Name: CORROSION ENGINEERING
 Units: 3.0
@@ -2172,6 +2279,7 @@ environment, design, cathodic and anodic protection, coatings.
 Books:
 	Fontana, Marselio G Corrosion Engineering TMH, 3rd ed., 1986
 --------------------------------------------------
+
 Course Code: CHE G552
 Course Name: ADV TRANSPORT PHENOMENA
 Units: 5.0
@@ -2201,6 +2309,7 @@ Books:
 	(ii) Joel Plawsky Transport Phenomena Fundamentals CRC Press, 2010, 2nd edition
 	(iii) Fox and McDonald Fluid Mechanics
 --------------------------------------------------
+
 Course Code: CHE G556
 Course Name: ELECTROCHEMICAL ENGINERING
 Units: 4.0
@@ -2228,6 +2337,7 @@ Books:
 	(i) A.J. Bard and L. R. Faulker Electrochemical methods, Fundamentals and applications John Wiley and Sons
 	(ii) J.O.M Bockris and A. K. N. Reddy Modern Electrochemistry Plenum Press
 --------------------------------------------------
+
 Course Code: CHE G641
 Course Name: REACTION ENGINEERING
 Units: 5.0
@@ -2254,6 +2364,7 @@ Books:
 	(i) Levenspiel, Octave Chemical Reaction Engineering Wiley India Pvt. Ltd., New Delhi, 3rd Edition, 2000 ( or higher edition if available!)
 	(ii) Fogler, H. Scott Elements of Chemical Reaction Engineering Pearson Edu, 4th ed,2006 ( or higher edition if available! )
 --------------------------------------------------
+
 Course Code: CHEM F110
 Course Name: CHEMISTRY LABORATORY
 Units: 1.0
@@ -2299,6 +2410,7 @@ analysis and preparations.
 Books:
 	Lab Manual for Chemistry Laboratory
 --------------------------------------------------
+
 Course Code: CHEM F111
 Course Name: GENERAL CHEMISTRY
 Units: 3.0
@@ -2350,6 +2462,7 @@ Books:
 	(i) Solomons's Organic Chemistry Global Edition
 	(ii) J. D. Lee, Concise Inorganic Chemistry 5th Edition, Blackwell Science, Oxford, 1999
 --------------------------------------------------
+
 Course Code: CHEM F223
 Course Name: COLLOID & SURFACE CHEM
 Units: 3.0
@@ -2369,6 +2482,7 @@ Books:
 	(ii) Pallab Ghosh Colloid and Interface Science 2009
 	(iii) I. N. Levine Physical Chemistry 5th Edition, Tata McGraw-Hill, 2011
 --------------------------------------------------
+
 Course Code: CHEM F241
 Course Name: INORGANIC CHEMISTRY II
 Units: 3.0
@@ -2393,6 +2507,7 @@ ically non-rigid molecules.
 Books:
 	Huheey, J. E.; Keiter, E. A.; Keiter, R. L.; Medhi O. K Inorganic Chemistry 4th Edition, Pearson
 --------------------------------------------------
+
 Course Code: CHEM F242
 Course Name: CHEMICAL EXPER I
 Units: 3.0
@@ -2422,6 +2537,7 @@ Sketch or ISI-Draw.
 Books:
 	NO TEXT BOOK REQUIRED
 --------------------------------------------------
+
 Course Code: CHEM F243
 Course Name: ORGANIC CHEMISTRY II
 Units: 3.0
@@ -2444,6 +2560,7 @@ Books:
 	(i) E. l. Eliel, S. H. Wilen, L.N. Mander John Wiley & Sons Stereochemistry of Organic Compounds 1st Ed., 2004. (T1)
 	(ii) Michael B Smith & Jerry March Advanced Organic Chemistry John Wiley & Sons, 6th ed., 2012
 --------------------------------------------------
+
 Course Code: CHEM F244
 Course Name: PHYSICAL CHEMISTRY III
 Units: 3.0
@@ -2470,6 +2587,7 @@ proach, exchange correlation functional; molecular mechanics.
 Books:
 	Levine, Ira N Quantum Chemistry PHI, 6th Edition, 2009
 --------------------------------------------------
+
 Course Code: CHEM F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -2485,6 +2603,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHEM F329
 Course Name: ANALYTICAL CHEMISTRY
 Units: 4.0
@@ -2507,6 +2626,7 @@ niques.
 Books:
 	GARY. D. CHRISTIAN Analytical Chemistry 6th ed. Wiley 2003
 --------------------------------------------------
+
 Course Code: CHEM F341
 Course Name: CHEMICAL EXPER II
 Units: 4.0
@@ -2531,6 +2651,7 @@ try, adsorption, etc.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHEM F342
 Course Name: ORGANIC CHEMISTRY IV
 Units: 3.0
@@ -2556,6 +2677,7 @@ Books:
 	(i) Raj K Bansal, Heterocyclic Chemistry 5th Ed., New Age International publishers, 2010. (TB1)
 	(ii) I L Finar Organic Chemistry Vol-2, 5th Ed., Pearson Education, 2009.
 --------------------------------------------------
+
 Course Code: CHEM F343
 Course Name: INORGANIC CHEMISTRY III
 Units: 3.0
@@ -2580,6 +2702,7 @@ Books:
 	(i) E. Ochiai Bioinorganic Chemistry: A Survey Academic Press, 2008.
 	(ii) Donald R. Askeland, Pradeep P. Phule The Science and Engineering of Materials Fourth Edition, Thomson, 2003
 --------------------------------------------------
+
 Course Code: CHEM F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -2591,6 +2714,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHEM F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -2606,6 +2730,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHEM F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -2617,6 +2742,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHEM F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -2632,6 +2758,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CHEM F412
 Course Name: PHOTOCHEM & LASER SPECTR
 Units: 3.0
@@ -2653,6 +2780,7 @@ Books:
 	(ii) J. R. Lakowicz Principles of Fluorescence Spectroscopy Springer; 3rd edition
 	(iii) W. T. Silvast Laser Fundamentals Cambridge University Press; 2nd edition
 --------------------------------------------------
+
 Course Code: CHEM F414
 Course Name: BIO & CHEMICAL SENSORS
 Units: 3.0
@@ -2685,6 +2813,7 @@ Books:
 	(i) Brian R. Eggins Chemical Sensors and Biosensors 2007, John Wiley & Sons Ltd.
 	(ii) Jiri Janta Principles of Chemical Sensors 2009, 2nd Ed., Springer
 --------------------------------------------------
+
 Course Code: CHEM G551
 Course Name: ADV ORGANIC CHEMISTRY
 Units: 5.0
@@ -2700,6 +2829,7 @@ analysis; multiple step synthesis; protecting groups.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: CHEM G552
 Course Name: ADVANCED INORGANIC CHEMISTRY
 Units: 5.0
@@ -2718,6 +2848,7 @@ inorganic chemistry in biological systems.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: CS F111
 Course Name: COMPUTER PROGRAMMING
 Units: 4.0
@@ -2770,6 +2901,7 @@ cated lists, and file access.
 Books:
 	Hanley and Koffman Problem solving and program design in C Pearson, 2014
 --------------------------------------------------
+
 Course Code: CS F211
 Course Name: DATA STRUCTURES & ALGO
 Units: 4.0
@@ -2826,6 +2958,7 @@ lems on Weighted Graphs (Shortest Paths. Spanning Trees).
 Books:
 	TH Cormen, CE Leiserson, RL Rivest, C Stein Introduction to Algorithms 3rd Ed., MIT Press, PHI, 2010
 --------------------------------------------------
+
 Course Code: CS F212
 Course Name: DATA BASE SYSTEMS
 Units: 4.0
@@ -2865,6 +2998,7 @@ and crash recovery; distributed databases.
 Books:
 	Elmarsi R, & Navathe S B, Fundamental of Database System 7e, Pearson, 2016.
 --------------------------------------------------
+
 Course Code: CS F213
 Course Name: OBJECT ORIENTED PROG
 Units: 4.0
@@ -2901,6 +3035,7 @@ Books:
 	(i) Matt Weisfeld The object-oriented thought process Third Edition, Addison-Wesley, 2013.
 	(ii) Herbert Schildt The Complete Reference- Java 12th Edition (McGraw Hill; Standard Edition)
 --------------------------------------------------
+
 Course Code: CS F241
 Course Name: MICROPROC & INTERFACING
 Units: 4.0
@@ -3004,6 +3139,7 @@ course will have laboratory component.
 Books:
 	Lyla B Das The x86 Microprocessors: 8086 to Pentium, Multicores, Atom and the 8051 Microcontroller Architecture, Programming and Interfacing, Second Edition
 --------------------------------------------------
+
 Course Code: CS F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -3019,6 +3155,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CS F303
 Course Name: COMPUTER NETWORKS
 Units: 4.0
@@ -3074,6 +3211,7 @@ sign of computer networks and internetworks.
 Books:
 	James F. Kurose and Keith W. Ross Computer Networking: A Top- Down Approach Sixth Edition, 2013, Pearson.
 --------------------------------------------------
+
 Course Code: CS F342
 Course Name: COMPUTER ARCHITECTURE
 Units: 4.0
@@ -3101,6 +3239,7 @@ Instruction level Parallelism.
 Books:
 	Patterson, D.A. & J.L. Hennessy Computer Organization and Design Elsevier, 5th ed., 2013
 --------------------------------------------------
+
 Course Code: CS F363
 Course Name: COMPILER CONSTRUCTION
 Units: 3.0
@@ -3156,6 +3295,7 @@ Languages, Concurrent Languages, Script & Query Languages.
 Books:
 	Aho, Sethi and Ullman.Compilers Principles, Techniques, and Tools Pearson Education. Low Price Edition. Second Edition
 --------------------------------------------------
+
 Course Code: CS F364
 Course Name: DESIGN & ANAL OF ALGO
 Units: 3.0
@@ -3193,6 +3333,7 @@ Parallel and Multi-threaded Algorithms.
 Books:
 	Cormen, Thomas H & Others Intro. to Algorithms PHI, 3rd ed., 2012
 --------------------------------------------------
+
 Course Code: CS F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -3204,6 +3345,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CS F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -3219,6 +3361,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CS F372
 Course Name: OPERATING SYSTEMS
 Units: 3.0
@@ -3240,6 +3383,7 @@ ing system modules.
 Books:
 	Silberschatz, Galvin, and Gagne Operating System concepts 9th edition, John Wiley & Sons, 2012
 --------------------------------------------------
+
 Course Code: CS F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -3251,6 +3395,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CS F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -3267,6 +3412,7 @@ VI
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: CS F407
 Course Name: ARTIFICIAL INTELLIGENCE
 Units: 3.0
@@ -3284,6 +3430,7 @@ LISP and PROLOG languages.
 Books:
 	Russell Stuart J & Peter Norvig Artificial Intelligence : A Modern Approach PHI/Pearson Edu., 3 rd Ed, 2009
 --------------------------------------------------
+
 Course Code: CS F415
 Course Name: DATA MINING
 Units: 3.0
@@ -3304,6 +3451,7 @@ and clustering.
 Books:
 	Tan,Pang-Ning & Others Introduction to Data Mining Pearson Education, 2006
 --------------------------------------------------
+
 Course Code: CS F437
 Course Name: GENERATIVE ARTIFICIAL INTELLIGENCE
 Units: 3.0
@@ -3316,6 +3464,7 @@ Description:
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: CS F469
 Course Name: INFORMATION RETRIEVAL
 Units: 3.0
@@ -3337,6 +3486,7 @@ ta and their representation and search.
 Books:
 	C. D. Manning, P. Raghavan and H. Schutze Introduction to Information Retrieval Cambridge University Press, 2008
 --------------------------------------------------
+
 Course Code: CS G513
 Course Name: NETWORK SECURITY
 Units: 4.0
@@ -3357,6 +3507,7 @@ jor security systems.
 Books:
 	William Stallings Cryptography and Network Security: Principles and Practice 7th Edition, Pearson, 2017
 --------------------------------------------------
+
 Course Code: CS G516
 Course Name: ADVANCED DATABASE SYSTEMS
 Units: 4.0
@@ -3378,6 +3529,7 @@ Books:
 	(i) Raghu Ramakrishnan and Johannes Gehrke Database Management System 3rd Ed, McGraw-Hill, 2002
 	(ii) Silberschatz A, Korth H F, and Sudarshan S Database System Concepts TMH, 7th Edition, 2020
 --------------------------------------------------
+
 Course Code: CS G523
 Course Name: SOFTWARE FOR EMBEDDED SYS
 Units: 5.0
@@ -3404,6 +3556,7 @@ Books:
 	(ii) Dive into Python https://www.python.org/
 	(iii) Brian Gerkey, Morgan L. Quigley, and William D. Smart Programming Robots with ROS: A Practical Introduction to the Robot Operating System https://www.ros.org/
 --------------------------------------------------
+
 Course Code: CS G524
 Course Name: ADV COMPUTER ARCHITECTURE
 Units: 5.0
@@ -3425,6 +3578,7 @@ niques.
 Books:
 	J.L Hennessy & D.A.Patterson Morgan Kaufmann Computer Architecture: A Quantitative Approach 6th Edition, 2017
 --------------------------------------------------
+
 Course Code: DE G514
 Course Name: FRACTURE MECHANICS
 Units: 5.0
@@ -3444,6 +3598,7 @@ mode crack initiation and growth.
 Books:
 	Prashant Kumar Elements of Fracture Mechanics Tata McGraw-Hill Publishing Company Ltd., New Delhi, 2009.
 --------------------------------------------------
+
 Course Code: ECE F241
 Course Name: MICROPROC & INTERFACING
 Units: 4.0
@@ -3547,6 +3702,7 @@ course will have laboratory component.
 Books:
 	Lyla B Das The x86 Microprocessors: 8086 to Pentium, Multicores, Atom and the 8051 Microcontroller Architecture, Programming and Interfacing, Second Edition
 --------------------------------------------------
+
 Course Code: ECE F242
 Course Name: CONTROL SYSTEMS
 Units: 3.0
@@ -3591,6 +3747,7 @@ State space analysis, controller design.
 Books:
 	Nagrath I.J. and M. Gopal Control Systems Engineering NAIL , 5th ed. , 2007
 --------------------------------------------------
+
 Course Code: ECE F243
 Course Name: SIGNALS & SYSTEMS
 Units: 3.0
@@ -3636,6 +3793,7 @@ sponse, analog filters, Sampling and reconstruction.
 Books:
 	Lathi, B P Principles of Signal Processing and Linear OUP, 2nd ed., 2009
 --------------------------------------------------
+
 Course Code: ECE F244
 Course Name: MICROELECTRONIC CIRCUITS
 Units: 3.0
@@ -3682,6 +3840,7 @@ ers, R-C frequency compensation.
 Books:
 	A. S. Sedra & K. C. Smith Microelectronic Ciruits Oxford University Press, 7th ed.
 --------------------------------------------------
+
 Course Code: ECE F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -3698,6 +3857,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECE F312
 Course Name: EM FIELDS LAB MICRO ENGG LAB
 Units: 1.0
@@ -3712,6 +3872,7 @@ benches and simulation softwares.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECE F341
 Course Name: ANALOG ELECTRONICS
 Units: 4.0
@@ -3784,6 +3945,7 @@ Books:
 	(i) Maheshwari L K Analog Electronics PHI, 2005
 	(ii) Maheshwari L K & M M S Anand Lab Experiments&PSPICE Simu in Analog Electronics Experiments PHI, 2005
 --------------------------------------------------
+
 Course Code: ECE F343
 Course Name: COMMUNICATION NETWORKS
 Units: 3.0
@@ -3816,6 +3978,7 @@ less LAN: adhoc network, security issues.
 Books:
 	Behrouz A. Forouzan Data communications and networking TMH; 5th Edition; 2013
 --------------------------------------------------
+
 Course Code: ECE F344
 Course Name: INFO THEORY & CODING
 Units: 3.0
@@ -3856,6 +4019,7 @@ I-44
 Books:
 	Ranjan Bose Information Theory, Coding and Cryptography Tata McGrawHill, 2016 3rd Ed
 --------------------------------------------------
+
 Course Code: ECE F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -3867,6 +4031,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECE F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -3882,6 +4047,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECE F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -3893,6 +4059,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECE F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -3908,6 +4075,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECON F211
 Course Name: PRINCIPLES OF ECONOMICS
 Units: 3.0
@@ -3939,6 +4107,7 @@ nomic planning.
 Books:
 	Karl E. Case, Ray C. Fair & Sharon M. Oster Principle of Economics Pearson Education, 12th ed, 2017
 --------------------------------------------------
+
 Course Code: ECON F212
 Course Name: FUNDA OF FIN AND ACCOUNT
 Units: 3.0
@@ -3965,6 +4134,7 @@ Books:
 	(ii) Robert Anthony, David Hawkins, Kenneth Merchant Accounting Text & Cases 13th edition, 2013 (For select cases & Management Accounting)
 	(iii) Bhole, L.M.and Jitendra Mahakud Financial Institutions & Markets: Structure Growth and Innovations” Tata McGraw Hill, 5th edition, 2009
 --------------------------------------------------
+
 Course Code: ECON F215
 Course Name: COMPUTATIONAL METHODS FOR ECON
 Units: 3.0
@@ -3982,6 +4152,7 @@ nomics and finance.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: ECON F241
 Course Name: ECONOMETRIC METHODS
 Units: 3.0
@@ -4003,6 +4174,7 @@ ness environment.
 Books:
 	Christopher Dougherty Introduction to Econometrics 5th Edition, Oxford University Press 2016
 --------------------------------------------------
+
 Course Code: ECON F242
 Course Name: MICROECONOMICS
 Units: 3.0
@@ -4024,6 +4196,7 @@ Books:
 	(i) Varian, Hal R Microeconomic Analysis Viva-Norton Student 3rd Edition, 2009
 	(ii) Varian, Hal, R Intermediate Microeconomics 8th Edition, Affiliated East-West Press and W.W. Norton, 2010
 --------------------------------------------------
+
 Course Code: ECON F243
 Course Name: MACROECONOMICS
 Units: 3.0
@@ -4048,6 +4221,7 @@ vestment models; money supply and money demand.
 Books:
 	Froyen, Richard T Macroeconomics:Theories & Policies A. W. Inc. ed; 10th ed. 1999
 --------------------------------------------------
+
 Course Code: ECON F244
 Course Name: ECONOMIC OF GROWTH & DEV
 Units: 3.0
@@ -4074,6 +4248,7 @@ Hypothesis theory.
 Books:
 	Devraj Ray Development Economics OUP, Delhi 2010, Reprint
 --------------------------------------------------
+
 Course Code: ECON F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -4089,6 +4264,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECON F314
 Course Name: INDUSTRIAL ECONOMICS
 Units: 3.0
@@ -4109,6 +4285,7 @@ regulation of industries.
 Books:
 	J. Church and R. Ware Industrial Organization: A Strategic Approach First edition, McGraw-Hill, 2000
 --------------------------------------------------
+
 Course Code: ECON F315
 Course Name: FINANCIAL MANAGEMENT
 Units: 3.0
@@ -4126,6 +4303,7 @@ Description:
 Books:
 	Richard A Brealey, Stewart C Myers, Franklin Allen and Pitabas Mohanty Principles of Corporate Finance Tata McGraw-Hill Publishing Company Ltd, 2012
 --------------------------------------------------
+
 Course Code: ECON F341
 Course Name: PUBLIC FIN THEO & POLICY
 Units: 3.0
@@ -4161,6 +4339,7 @@ FRBMs.
 Books:
 	Musgrave, Richard A & P B Musgrave Public Finance in Theory and Practice McGraw-Hill Book Company, New York (2007)
 --------------------------------------------------
+
 Course Code: ECON F342
 Course Name: APPLIED ECONOMETRICS
 Units: 3.0
@@ -4195,6 +4374,7 @@ models.
 Books:
 	J Wooldridge Introductory Econometrics- A Modern Approach 4th Edition (ISBNNo. 9788131516737), South Western Cengage Learning, 2012
 --------------------------------------------------
+
 Course Code: ECON F343
 Course Name: ECONOMIC ANAL OF PUB POL
 Units: 3.0
@@ -4223,6 +4403,7 @@ icy.
 Books:
 	Bellinger, William K Economic Analysis of Public Policy Routledge, London and New York, 2007
 --------------------------------------------------
+
 Course Code: ECON F345
 Course Name: BEHAVIORAL ECONOMICS
 Units: 3.0
@@ -4239,6 +4420,7 @@ games; analogous games.
 Books:
 	Dhami, Sanjit The Foundations of Behavioural Economic Analysis: Volume I: Behavioural Economics of Risk, Uncertainty, and Ambiguity Oxford University Press, 2019.
 --------------------------------------------------
+
 Course Code: ECON F354
 Course Name: DERIVATIVES & RISK MGMT
 Units: 3.0
@@ -4273,6 +4455,7 @@ Risk, Liquidity risk & Model Risk. Concept of Value at Risk.
 Books:
 	John C. Hull & Basu Sankarshan Options, Futures and Other Derivatives 8th Edition, Pearson Education
 --------------------------------------------------
+
 Course Code: ECON F355
 Course Name: BUSS ANAL & VALUATION
 Units: 3.0
@@ -4291,6 +4474,7 @@ Books:
 	(i) Palepu, Healy & Bernard Business Analysis & Valuation - Using Financial Statements Text & Cases Cengage Learning Publisher, 3rd Edition
 	(ii) Damodaran A Damodaran on Valuation Wiley India Pvt. Ltd. 2nd Edition
 --------------------------------------------------
+
 Course Code: ECON F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -4302,6 +4486,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECON F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -4317,6 +4502,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECON F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -4328,6 +4514,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECON F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -4343,6 +4530,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ECON F412
 Course Name: SECUR ANAL & PORTFOL MGT
 Units: 3.0
@@ -4365,6 +4553,7 @@ Books:
 	(i) Reilly, Frank K & Keith C.Brown Analysis of Investments & Management of Portfolios Cengage-L, 10th ed., 2012
 	(ii) Zvi Bodie, Alex Kane, Alan Marcus, Pitabas Mohanty Investments 2010, McGraw Hill
 --------------------------------------------------
+
 Course Code: ECON F416
 Course Name: REGIONAL ECONOMICS
 Units: 3.0
@@ -4382,6 +4571,7 @@ and its impact on regional structure; public policy.
 Books:
 	Jan K. Brueckner Lectures on Urban Economics Cambridge, MA: MIT Press (Low price Indian edition (PHE) is available) Chapter 1,2,3,5,11 (2011)
 --------------------------------------------------
+
 Course Code: ECON F420
 Course Name: APPLIED MACROECONOMETRICS
 Units: 3.0
@@ -4401,6 +4591,7 @@ Monetary Models.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: ECON F434
 Course Name: INTERNATIONAL BUSINESS
 Units: 3.0
@@ -4414,6 +4605,7 @@ Description:
 Books:
 	John D. Daniels & Lee H. Radebaugh International Business, Environment & Operations Pearson Education, 2018, 16th edition.
 --------------------------------------------------
+
 Course Code: ECON F435
 Course Name: MARKETING RESEARCH
 Units: 3.0
@@ -4426,6 +4618,7 @@ Description:
 Books:
 	MALHOTRA NARESH K Marketing Research: An applied orientation Pearson Education, 2013, 6th Edition.
 --------------------------------------------------
+
 Course Code: EEE F111
 Course Name: ELECTRICAL SCIENCES
 Units: 3.0
@@ -4478,6 +4671,7 @@ troduction to Digital Electronics.
 Books:
 	Leonard S. Bobrow Fundamentals of Electrical Engineering Adapted by Naveen Gupta, Asian Edition, OUP
 --------------------------------------------------
+
 Course Code: EEE F241
 Course Name: MICROPROC & INTERFACING
 Units: 4.0
@@ -4581,6 +4775,7 @@ course will have laboratory component.
 Books:
 	Lyla B Das The x86 Microprocessors: 8086 to Pentium, Multicores, Atom and the 8051 Microcontroller Architecture, Programming and Interfacing, Second Edition
 --------------------------------------------------
+
 Course Code: EEE F242
 Course Name: CONTROL SYSTEMS
 Units: 3.0
@@ -4625,6 +4820,7 @@ State space analysis, controller design.
 Books:
 	Nagrath I.J. and M. Gopal Control Systems Engineering NAIL , 5th ed. , 2007
 --------------------------------------------------
+
 Course Code: EEE F243
 Course Name: SIGNALS & SYSTEMS
 Units: 3.0
@@ -4671,6 +4867,7 @@ sponse, analog filters, Sampling and reconstruction.
 Books:
 	Lathi, B P Principles of Signal Processing and Linear OUP, 2nd ed., 2009
 --------------------------------------------------
+
 Course Code: EEE F244
 Course Name: MICROELECTRONIC CIRCUITS
 Units: 3.0
@@ -4717,6 +4914,7 @@ ers, R-C frequency compensation.
 Books:
 	A. S. Sedra & K. C. Smith Microelectronic Ciruits Oxford University Press, 7th ed.
 --------------------------------------------------
+
 Course Code: EEE F245
 Course Name: CONTROL SYSTEMS LABORATORY
 Units: 1.0
@@ -4740,6 +4938,7 @@ Books:
 	(i) Nagrath I. J. and M. Gopal Control Systems Engineering New Age International (P) Limited, 5th ed, 2007
 	(ii) LabVIEW manuals Quanser-QUBE-Servo manuals TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: EEE F246
 Course Name: ELECTRICAL & ELECTRONIC CIRCUITS LABORATORY
 Units: 2.0
@@ -4758,6 +4957,7 @@ signals, systems etc.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: EEE F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -4773,6 +4973,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: EEE F312
 Course Name: POWER SYSTEMS
 Units: 3.0
@@ -4800,6 +5001,7 @@ mission.
 Books:
 	Nagrath I.J. and D.P.Kothari Power System Engg. TMH, 2nd ed,2008
 --------------------------------------------------
+
 Course Code: EEE F341
 Course Name: ANALOG ELECTRONICS
 Units: 4.0
@@ -4873,6 +5075,7 @@ Books:
 	(i) Maheshwari L K Analog Electronics PHI, 2005
 	(ii) Maheshwari L K & M M S Anand Lab Experiments&PSPICE Simu in Analog Electronics Experiments PHI, 2005
 --------------------------------------------------
+
 Course Code: EEE F342
 Course Name: POWER ELECTRONICS
 Units: 4.0
@@ -4929,6 +5132,7 @@ Books:
 	(i) N. Mohan, T. M. Undeland, and W. P. Robbins Power Electronics: Converters, Applications, and Design John Wiley & Sons Inc. 2008, third edition
 	(ii) M.H.Rashid Power Electronics Devices, Circuits and Applications Prentice-Hall, Inc., Pearson education, 2004, third edition
 --------------------------------------------------
+
 Course Code: EEE F348
 Course Name: FPGA BASED SYSTEM DESIGN LAB
 Units: 2.0
@@ -4948,6 +5152,7 @@ Books:
 	(ii) Samir Palnitkar. Verilog HDL: A Guide to Digital Design and Synthesis Book
 	(iii) Pong P. Chu., FPGA prototyping by Verilog examples Wiley, 2008
 --------------------------------------------------
+
 Course Code: EEE F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -4959,6 +5164,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: EEE F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -4974,6 +5180,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: EEE F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -4985,6 +5192,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: EEE F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -5001,6 +5209,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: EEE F426
 Course Name: FIBRE OPTICS & OPTOELECT
 Units: 3.0
@@ -5018,6 +5227,7 @@ tions.
 Books:
 	Khare, R.P Fiber Optics and Optoelectronics Oxford University Press (2004)
 --------------------------------------------------
+
 Course Code: EEE F428
 Course Name: ENERGY STORAGE SYSTEMS
 Units: 3.0
@@ -5037,6 +5247,7 @@ age and their applications.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: EEE F435
 Course Name: DIGITAL IMAGE PROCESSING
 Units: 3.0
@@ -5056,6 +5267,7 @@ age Enhancement , Medical Image Processing , 3D techniques.
 Books:
 	Gonzalez & Woods Digital Image Processing 3rd Edition , Pearson 2009
 --------------------------------------------------
+
 Course Code: EEE F474
 Course Name: ANTENNA THEORY AND DESIGN
 Units: 4.0
@@ -5079,6 +5291,7 @@ radiation pattern of various antennas.
 Books:
 	C.A. Balanis, Antenna Theory, Analysis and Design 3rd ed., John Wiley and Sons 2005
 --------------------------------------------------
+
 Course Code: EEE F477
 Course Name: MODELING OF FIELD- EFFECT NANO DEVICES
 Units: 3.0
@@ -5106,6 +5319,7 @@ Si channels.
 Books:
 	Mark Laundstrom Fundamentals of Nano Transistors Word Scientific, 1st ed., 2008.
 --------------------------------------------------
+
 Course Code: EEE F478
 Course Name: POWER SYSTEMS LAB
 Units: 2.0
@@ -5121,6 +5335,7 @@ lization including illumination, electrical drives etc.
 Books:
 	Nagrath I.J. and D.P.Kothari Power System Engineering TMH, 1994
 --------------------------------------------------
+
 Course Code: EEE G592
 Course Name: MOBILE & PERSONAL COMMUNICATION
 Units: 5.0
@@ -5146,6 +5361,7 @@ cellular; spectrum and technology of WLL.
 Books:
 	Theodore S. Rappaport Wireless Communications Principles and Practice Second Edition, Pearson, 2010
 --------------------------------------------------
+
 Course Code: EEE G622
 Course Name: ADVANCED DIGITAL COMMUNICATION
 Units: 5.0
@@ -5172,6 +5388,7 @@ Books:
 	(ii) David Tse and Pramod Viswanath Fundamentals of Wireless Communications
 	(iii) H. Nguyen and Ed Shwedyk A First Course in Digital Communications CUP, 2009
 --------------------------------------------------
+
 Course Code: FIN F311
 Course Name: DERIVATIVES & RISK MGMT
 Units: 3.0
@@ -5206,6 +5423,7 @@ Risk, Liquidity risk & Model Risk. Concept of Value at Risk
 Books:
 	John C. Hull & Basu Sankarshan Options, Futures and Other Derivatives 8th Edition, Pearson Education
 --------------------------------------------------
+
 Course Code: FIN F313
 Course Name: SECUR ANAL & PORTFOL MGT
 Units: 3.0
@@ -5227,6 +5445,7 @@ Books:
 	(i) Reilly, Frank K & Keith C.Brown Analysis of Investments & Management of Portfolios Cengage-L, 10th ed., 2012
 	(ii) Zvi Bodie, Alex Kane, Alan Marcus, Pitabas Mohanty Investments 2010, McGraw Hill
 --------------------------------------------------
+
 Course Code: FIN F315
 Course Name: FINANCIAL MANAGEMENT
 Units: 3.0
@@ -5253,6 +5472,7 @@ ages.
 Books:
 	Richard A Brealey, Stewart C Myers, Franklin Allen and Pitabas Mohanty Principles of Corporate Finance Tata McGraw-Hill Publishing Company Ltd, 2012
 --------------------------------------------------
+
 Course Code: FIN F414
 Course Name: FINANCIAL RISK ANALYTICS AND MANAGEMENT
 Units: 3.0
@@ -5279,6 +5499,7 @@ Greeks, Managing Risk with Deriatives.
 Books:
 	John C. Hull Risk Management & Financial Institutions 4th Edition, Wiley
 --------------------------------------------------
+
 Course Code: GS F223
 Course Name: INTRO TO MASS COMM
 Units: 3.0
@@ -5296,6 +5517,7 @@ conferencing.
 Books:
 	Stanley J.Baran Introduction to Mass Communication: Media Literacy and Culture Macmillan 5th Edition, 2017
 --------------------------------------------------
+
 Course Code: GS F233
 Course Name: PUBLIC POLICY
 Units: 3.0
@@ -5313,6 +5535,7 @@ Books:
 	(i) McGraw-Hill Education (UK) Colebatch, H. (2009) Policy (third edition)
 	(ii) Mathur, K. (2013) Public policy and politics in India: How institutions matter . OUP Catalogue.
 --------------------------------------------------
+
 Course Code: GS F245
 Course Name: EFFECTIVE PUBLIC SPEAK
 Units: 3.0
@@ -5346,6 +5569,7 @@ used to conduct group discussions through computers).
 Books:
 	Rice, T. A. (Editor & Reviewer, 2017) Fundamentals of Public Speaking (Version 5.2.4) College of the Canyons.
 --------------------------------------------------
+
 Course Code: GS F322
 Course Name: CRITI ANAL OF LIT & CINE
 Units: 3.0
@@ -5370,6 +5594,7 @@ Books:
 	(ii) Jarek Kupsc The History of Cinema for Beginners Orient Blackswan.2010.
 	(iii) Geeta. B Introduction to Film Analysis (EDD notes)
 --------------------------------------------------
+
 Course Code: GS F333
 Course Name: PUBLIC ADMINISTRATION
 Units: 3.0
@@ -5391,6 +5616,7 @@ istration in India.
 Books:
 	Bidyut Chakrabarty and Prakash Chand Indian Administration: Evolution and Practice New Delhi: Sage Publications India, 2016
 --------------------------------------------------
+
 Course Code: GS F342
 Course Name: COMPUTER MEDIATED COMM
 Units: 3.0
@@ -5404,6 +5630,7 @@ Description: Course description is to be developed.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: GS F345
 Course Name: CONSTITUTION OF INDIA
 Units: 3.0
@@ -5423,6 +5650,7 @@ State.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: HSS F222
 Course Name: LINGUISTICS
 Units: 3.0
@@ -5439,6 +5667,7 @@ tic analysis.
 Books:
 	Yule, G. The Study of Language Cambridge: CUP. 2010 (4nd Edn.)
 --------------------------------------------------
+
 Course Code: HSS F235
 Course Name: INTRODUCTORY PHILOSOPHY
 Units: 3.0
@@ -5454,6 +5683,7 @@ skepticism and its philosophical value; contemporary philosophy.
 Books:
 	Hales, Steven D This Is Philosophy: An Introduction Malden MA: Wiley-Blackwell 2013
 --------------------------------------------------
+
 Course Code: HSS F237
 Course Name: CONTEMPORARY INDIAN ENGLISH FICTION
 Units: 3.0
@@ -5473,6 +5703,7 @@ on contemporary India.
 Books:
 	Mukherjee, Meenakshi The Perishable Empire: Essays on Indian Writing in English OUP, 2000
 --------------------------------------------------
+
 Course Code: HSS F248
 Course Name: INTRODUCTION TO DISABILITY STUDIES
 Units: 3.0
@@ -5493,6 +5724,7 @@ language poetry, crip performances.
 Books:
 	Ghai, Anita Disability in South Asia: Knowledge and Experience. Sage, 2018
 --------------------------------------------------
+
 Course Code: HSS F316
 Course Name: POP LITER & CULT OF S ASIA
 Units: 3.0
@@ -5511,6 +5743,7 @@ and dislocation.
 Books:
 	Betts, Raymond & Lyz Bly F A History of Popular Culture New York:Routledge, 2013 (2nd edition)
 --------------------------------------------------
+
 Course Code: HSS F317
 Course Name: INTRO TO GLOBALIZATION
 Units: 3.0
@@ -5531,6 +5764,7 @@ Movements.
 Books:
 	Steger, Manfred B. Globalization A Very Short Introduction Oxford: Oxford University Press 2020
 --------------------------------------------------
+
 Course Code: HSS F322
 Course Name: SOCIAL AND POLITICAL ECOLOGY
 Units: 3.0
@@ -5543,6 +5777,7 @@ Description:
 Books:
 	Paul Robbins Political Ecology: A Critical Introduction Oxford: Wiley-Blackwell 2012
 --------------------------------------------------
+
 Course Code: HSS F334
 Course Name: SRIMAD BHAGAVAD GITA
 Units: 3.0
@@ -5563,6 +5798,7 @@ to Godhead.
 Books:
 	Trans. S. Radhakrishnan. The Bhagavad Gita. Harper Collins Publishers, 2014. ISBN : 978-81-7223-898-8
 --------------------------------------------------
+
 Course Code: HSS F336
 Course Name: MODERN FICTION
 Units: 3.0
@@ -5576,6 +5812,7 @@ D.H. Lawrence.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: HSS F337
 Course Name: ENGLISH LITERARY FORMS AND MOVEMENTS
 Units: 3.0
@@ -5593,6 +5830,7 @@ Books:
 	(i) Long, William J English Literature: Its History and its Significance Kolkata: Books Way, 2009.
 	(ii) Abrams, M. H., and Geoffrey Galt Harpham A Glossary of Literary Terms Tenth Edition. 2012. USA: Wadsworth
 --------------------------------------------------
+
 Course Code: HSS F338
 Course Name: COMPARATIVE INDIAN LIT
 Units: 3.0
@@ -5609,6 +5847,7 @@ from the best writers in the Indian languages will be studied.
 Books:
 	Ben Hutchinson Comparative Literature OUP, 2018
 --------------------------------------------------
+
 Course Code: HSS F340
 Course Name: POST COLONIAL LITERATURE
 Units: 3.0
@@ -5626,6 +5865,7 @@ Books:
 	(i) McLeod, John Beginning Postcolonialism 2nd ed., Manchester UP, 2010
 	(ii) Ashcroft, Bill, et al., editors Post-Colonial Studies: The Key Concepts 2nd ed., Routledge, 2007
 --------------------------------------------------
+
 Course Code: HSS F363
 Course Name: DISASTER AND DEVELOPMENT
 Units: 3.0
@@ -5648,6 +5888,7 @@ Continuity Plan (BCP), Response and recovery planning.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: HSS F369
 Course Name: CASTE AND GENDER IN INDIA
 Units: 3.0
@@ -5665,6 +5906,7 @@ interventions.
 Books:
 	Uma Chakravarthy Gendering Caste: Through a Feminist Lens Stree, 2018
 --------------------------------------------------
+
 Course Code: HSS F378
 Course Name: CINEMAS OF INDIA: FROM PAST TO PRESENT
 Units: 3.0
@@ -5686,6 +5928,7 @@ Books:
 	(i) Vasudevan, Ravi Making Meaning in Indian Cinema Oxford University Press ed. (2000)
 	(ii) Duggal, Menon & Bhattacharya Film Studies: An Introduction, Worldview 2022
 --------------------------------------------------
+
 Course Code: HSS F379
 Course Name: INTRODUCTION TO PHILOSOPHY OF SCIENCE
 Units: 3.0
@@ -5711,6 +5954,7 @@ Values in science.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: HSS F381
 Course Name: ENVIRONMENTAL SUSTAIN VENTURES
 Units: 3.0
@@ -5740,6 +5984,7 @@ Books:
 	e
 	d
 --------------------------------------------------
+
 Course Code: HSS F382
 Course Name: HOUSING: PROGRAMS, POLICIES AND PRACTICES
 Units: 3.0
@@ -5753,6 +5998,7 @@ Description:
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: INSTR F241
 Course Name: MICROPROC & INTERFACING
 Units: 4.0
@@ -5856,6 +6102,7 @@ have laboratory component.
 Books:
 	Lyla B Das The x86 Microprocessors: 8086 to Pentium, Multicores, Atom and the 8051 Microcontroller Architecture, Programming and Interfacing, Second Edition
 --------------------------------------------------
+
 Course Code: INSTR F242
 Course Name: CONTROL SYSTEMS
 Units: 3.0
@@ -5900,6 +6147,7 @@ State space analysis, controller design.
 Books:
 	Nagrath I.J. and M. Gopal Control Systems Engineering NAIL , 5th ed. , 2007
 --------------------------------------------------
+
 Course Code: INSTR F243
 Course Name: SIGNALS & SYSTEMS
 Units: 3.0
@@ -5946,6 +6194,7 @@ sponse, analog filters, Sampling and reconstruction.
 Books:
 	Lathi, B P Principles of Signal Processing and Linear OUP, 2nd ed., 2009
 --------------------------------------------------
+
 Course Code: INSTR F244
 Course Name: MICROELECTRONIC CIRCUITS
 Units: 3.0
@@ -5992,6 +6241,7 @@ ers, R-C frequency compensation.
 Books:
 	A. S. Sedra & K. C. Smith Microelectronic Ciruits Oxford University Press, 7th ed.
 --------------------------------------------------
+
 Course Code: INSTR F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -6007,6 +6257,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: INSTR F341
 Course Name: ANALOG ELECTRONICS
 Units: 4.0
@@ -6080,6 +6331,7 @@ Books:
 	(i) Maheshwari L K Analog Electronics PHI, 2005
 	(ii) Maheshwari L K & M M S Anand Lab Experiments&PSPICE Simu in Analog Electronics Experiments PHI, 2005
 --------------------------------------------------
+
 Course Code: INSTR F342
 Course Name: POWER ELECTRONICS
 Units: 4.0
@@ -6136,6 +6388,7 @@ Books:
 	(i) N. Mohan, T. M. Undeland, and W. P. Robbins Power Electronics: Converters, Applications, and Design John Wiley & Sons Inc. 2008, third edition
 	(ii) M.H.Rashid Power Electronics Devices, Circuits and Applications Prentice-Hall, Inc., Pearson education, 2004, third edition
 --------------------------------------------------
+
 Course Code: INSTR F343
 Course Name: INDUS INSTRUMENT & CONT
 Units: 3.0
@@ -6162,6 +6415,7 @@ plications.
 Books:
 	Surekha Bhanot, Process Control: Principles and Applications, Oxford University press, Fourth Impression 2010
 --------------------------------------------------
+
 Course Code: INSTR F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -6173,6 +6427,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: INSTR F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -6188,6 +6443,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: INSTR F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -6199,6 +6455,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: INSTR F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -6214,6 +6471,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: IS F341
 Course Name: SOFTWARE ENGINEERING
 Units: 4.0
@@ -6239,6 +6497,7 @@ models.
 Books:
 	Ian Sommerville Software Engineering Pearson Education, 2017
 --------------------------------------------------
+
 Course Code: MATH F112
 Course Name: MATHEMATICS II
 Units: 3.0
@@ -6317,6 +6576,7 @@ Books:
 	(i) Churchill, R V and James W, Complex Variables and Applications 8th Edition, 2008, McGraw-Hill
 	(ii) Gareth Williams Linear Algebra with Applications 9th Edition, 2018, Jones & Bartlett Learning
 --------------------------------------------------
+
 Course Code: MATH F113
 Course Name: PROBABILITY AND STATISTICS
 Units: 3.0
@@ -6399,6 +6659,7 @@ distribution; test of hypothesis; correlation and linear regression.
 Books:
 	Jay L Devore Probability and Statistics for Engineering and the Sciences 8th Edition, Cengage Learning, 2012
 --------------------------------------------------
+
 Course Code: MATH F213
 Course Name: DISCRETE MATHEMATICS
 Units: 3.0
@@ -6413,6 +6674,7 @@ gebra and Boolean functions.
 Books:
 	Joe L. Mott, Abraham Kandel, Theodore P. Baker Discrete Mathematics for Computer Scientist & Mathematicians Pearson India, 2nd Edition 2015
 --------------------------------------------------
+
 Course Code: MATH F231
 Course Name: NUMBER THEORY
 Units: 3.0
@@ -6429,6 +6691,7 @@ fractions.
 Books:
 	Thomas Koshy Elementary Number Theory with Applications Academic Press, 2007
 --------------------------------------------------
+
 Course Code: MATH F241
 Course Name: MATHEMATICAL METHODS
 Units: 3.0
@@ -6453,6 +6716,7 @@ Books:
 	(i) F. B. Hildebrand Methods of Applied Mathematics Dover Publications, Second Edition, 1992
 	(ii) Sudhakar Nair Advanced Topics in Applied Mathematics: For Engineering and the Physical Sciences Cambridge University Press, 2011
 --------------------------------------------------
+
 Course Code: MATH F242
 Course Name: OPERATIONS RESEARCH
 Units: 3.0
@@ -6472,6 +6736,7 @@ Books:
 	(i) Taha, Hamdy A Operations Research:An Introduction Pearson Edu,10th ed.,2012
 	(ii) Venkateswaran S. and B. Singh Operations Research Notes EDD, V. 3, 2007
 --------------------------------------------------
+
 Course Code: MATH F243
 Course Name: GRAPHS AND NETWORKS
 Units: 3.0
@@ -6492,6 +6757,7 @@ problems; representations; various algorithms; applications.
 Books:
 	Gary Chartrand & Ping Zhang Introduction to Graph Theory Tata Mcgraw-hill, Indian Edition 2006
 --------------------------------------------------
+
 Course Code: MATH F244
 Course Name: MEASURE & INTEGRATION
 Units: 3.0
@@ -6510,6 +6776,7 @@ ble functions, and abstract spaces.
 Books:
 	H. L. Royden, P. M. Fitzpatrick Real Analysis 4th Edition, Pearson Education India, 2015
 --------------------------------------------------
+
 Course Code: MATH F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -6525,6 +6792,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: MATH F315
 Course Name: INTRO TO STATISTICAL INFERENCE
 Units: 3.0
@@ -6544,6 +6812,7 @@ fidence intervals.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: MATH F341
 Course Name: INTRO TO FUNCTIONAL ANAL
 Units: 3.0
@@ -6561,6 +6830,7 @@ self-adjoint operators.
 Books:
 	Kreyszig, Erwin Introductory Functional Analysis with Applications Reprinted 2010, John Wiley
 --------------------------------------------------
+
 Course Code: MATH F342
 Course Name: DIFFERENTIAL GEOMETRY
 Units: 3.0
@@ -6579,6 +6849,7 @@ ics; Gauss-Bonnet Theorem.
 Books:
 	D. Somasundaram Differential Geometry A First Course Narosa Publishing House, First Edition, 2012.
 --------------------------------------------------
+
 Course Code: MATH F343
 Course Name: PARTIAL DIFF EQUATIONS
 Units: 3.0
@@ -6600,6 +6871,7 @@ equations in engineering & science.
 Books:
 	Tyn Myint-U and Lokenath Debnath Linear Partial Differential Equations for Scientists and Engineers, Birkhauser, 4th Edition
 --------------------------------------------------
+
 Course Code: MATH F353
 Course Name: STATISTICAL INFER & APP
 Units: 3.0
@@ -6619,6 +6891,7 @@ tical Quality control for variables and measurements.
 Books:
 	Venkateswaran, S., & B. Singh Operations Research Notes-EDD, Vol.1 and 2, 1997
 --------------------------------------------------
+
 Course Code: MATH F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -6630,6 +6903,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: MATH F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -6645,6 +6919,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: MATH F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -6656,6 +6931,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: MATH F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -6671,6 +6947,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: MATH F421
 Course Name: COMBINATORIAL MATHEMATICS
 Units: 3.0
@@ -6688,6 +6965,7 @@ ical enumeration problems.
 Books:
 	Richard A. Brualdi Introductory Combinatorics Pearson Prentice Hall, 2014
 --------------------------------------------------
+
 Course Code: MATH F456
 Course Name: COSMOLOGY
 Units: 3.0
@@ -6710,6 +6988,7 @@ universe.
 Books:
 	A. Liddle An Introduction to Modern Cosmology, Relativity and Cosmology 3rd edition,Wiley (2015)
 --------------------------------------------------
+
 Course Code: MATH F471
 Course Name: NONLINEAR OPTIMIZATION
 Units: 3.0
@@ -6726,6 +7005,7 @@ generalised convex functions; fractional programming.
 Books:
 	1. M. S. Bazzara, H.D. sherali and C.M. Shetty Nonlinear Programming: Theory and Algorithms Wiley-Interscience; 3rd edition, 2006.
 --------------------------------------------------
+
 Course Code: MATH F481
 Course Name: COMMUTATIVE ALGEBRA
 Units: 3.0
@@ -6744,6 +7024,7 @@ ideals.
 Books:
 	M. F. Atiyah and I. G. Macdonald Introduction to commutative algebra, Taylor & Francis, 1994.
 --------------------------------------------------
+
 Course Code: ME F112
 Course Name: WORKSHOP PRACTICE
 Units: 2.0
@@ -6781,6 +7062,7 @@ Books:
 	(i) Parashar, B S N & R K Mittal Elements of Manufacturing Processes PHI , 2003
 	(ii) Sangwan, K S & Others Workshop Practice Manual Notes-EDD, 2007
 --------------------------------------------------
+
 Course Code: ME F218
 Course Name: ADVANCED MECHANICS OF SOLIDS
 Units: 2.0
@@ -6810,6 +7092,7 @@ bending, curved beams, and thick cylinders.
 Books:
 	Arthur P., Boresi and R.J. Schmidt "Advanced Mechanics of Materials" John Wiley, 6th Edition, 2003.
 --------------------------------------------------
+
 Course Code: ME F219
 Course Name: MANUFACTURING PROCESSES
 Units: 4.0
@@ -6854,6 +7137,7 @@ fits, and tolerances. Related laboratory experiments.
 Books:
 	Serope Kalpakjian and Steven R. Schmid “Manufacturing Processes for Engineering Materials” Pearson Education (Low Price Edition), 2003
 --------------------------------------------------
+
 Course Code: ME F220
 Course Name: HEAT TRANSFER
 Units: 4.0
@@ -6897,6 +7181,7 @@ densation, introduction to mass transfer; associated laboratory.
 Books:
 	Frank P. Incropera , David P. Dewitt , Theodore L. Bergman , Adrienne S. Lavine Incropera's Principles of Heat and Mass Transfer Wiley India Edition, 2018
 --------------------------------------------------
+
 Course Code: ME F221
 Course Name: MECHANISMS AND MACHINES
 Units: 3.0
@@ -6933,6 +7218,7 @@ Equivalent: MF F221
 Books:
 	Uicker, JJ and Others Theory of Machines and Mechanisms OUP 3rd Ed., 2003
 --------------------------------------------------
+
 Course Code: ME F241
 Course Name: MACHINE DESIGN & DRAWING
 Units: 4.0
@@ -6950,6 +7236,7 @@ view.
 Books:
 	Richard G. Budynas, J. Keith Nisbett Shigley's Mechanical Engineering Design Tata–McGraw Hill,. 9th SI Edition, New Delhi, 2011
 --------------------------------------------------
+
 Course Code: ME F242
 Course Name: IC ENGINES
 Units: 2.0
@@ -6964,6 +7251,7 @@ sion and their control.
 Books:
 	Ganeshan V Internal Combustion Engines Tata McGraw-Hill, 4th Edition, 2012
 --------------------------------------------------
+
 Course Code: ME F243
 Course Name: PRODUCTION TECHNIQUES I
 Units: 3.0
@@ -6990,6 +7278,7 @@ and Metrology. Fabrication project.
 Books:
 	Serope Kalpakjian and Steven R. Schmid “Manufacturing Processes for Engineering Materials” Pearson Education (Low Price Edition), 2003
 --------------------------------------------------
+
 Course Code: ME F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -7006,6 +7295,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ME F318
 Course Name: COMPUTER-AIDED DESIGN
 Units: 3.0
@@ -7052,6 +7342,7 @@ Books:
 	(ii) Chandrupatla, T. R., Belegundu, A. D., Introduction to Finite Elements in Engineering 3rd Edition, Prentice Hall of India, 2005, New Delhi.
 	(iii) Narayana K. L., Kannaiah P., Venkata Reddy K Machine Drawing 3rd Edition, New Age International Publishers, New Delhi.
 --------------------------------------------------
+
 Course Code: ME F319
 Course Name: VIBRATIONS AND CONTROL
 Units: 3.0
@@ -7087,6 +7378,7 @@ Books:
 	(i) William T. Thomson, Marie Dillon Dahleh and Chandramouli Padmanabhan, Pearson Theory of Vibrations with Applications Pearson, Sixth Ed
 	(ii) Katsuhiko Ogata, Modern Control Engineering Pearson, 5th Edition
 --------------------------------------------------
+
 Course Code: ME F320
 Course Name: ENGINEERING OPTIMIZATION
 Units: 3.0
@@ -7121,6 +7413,7 @@ Equivalent: MF F320
 Books:
 	HA Taha Operations Research: An Introduction Pearson Education/PHI, 8/E, 2007
 --------------------------------------------------
+
 Course Code: ME F321
 Course Name: DATA MINING IN MECHANICAL SCI
 Units: 3.0
@@ -7142,6 +7435,7 @@ data analytics.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: ME F323
 Course Name: ENERGY STORAGE TECHNOLOGIES
 Units: 3.0
@@ -7164,6 +7458,7 @@ and solutions through different energy storage technologies.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: ME F341
 Course Name: PRIMEMOVERS & FLUID MACH
 Units: 3.0
@@ -7207,6 +7502,7 @@ Books:
 	(i) Lal Jagdish Hydraulic Machines Metropolitan, 6th ed.rev.,1975
 	(ii) Venkanna B. K. Fundamentals of Turbomachinery 6th Print (2009), PHI, New Delhi.
 --------------------------------------------------
+
 Course Code: ME F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -7218,6 +7514,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ME F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -7233,6 +7530,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ME F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -7244,6 +7542,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ME F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -7259,6 +7558,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: ME F423
 Course Name: MICRO-FLUIDICS & ITS APP
 Units: 4.0
@@ -7282,6 +7582,7 @@ CAD tool.
 Books:
 	Nam-Trung Nguyen and Steven T. Wereley 1. Fundamentals and applications of microfluidics Artech House, 2002
 --------------------------------------------------
+
 Course Code: ME F426
 Course Name: INDUSTRY 4.0 IN MANUFACTURING
 Units: 3.0
@@ -7304,6 +7605,7 @@ Books:
 	(ii) Sartal, Antonio, Diego Carou, and J. Paulo Davim Enabling technologies for the successful deployment of Industry 4.0 CRC Press, 2020.
 	(iii) Gilchrist, Alasdair ndustry 4.0: the industrial internet of things. Apress, 2016
 --------------------------------------------------
+
 Course Code: ME F483
 Course Name: WIND ENERGY
 Units: 3.0
@@ -7326,6 +7628,7 @@ nomics of wind energy conversion.
 Books:
 	Sathyajith Mathew Wind Energy - Fundamentals, Resource Analysis and Economics Springer-Verlag Berlin Heidelberg 2006
 --------------------------------------------------
+
 Course Code: ME F484
 Course Name: AUTOMOTIVE TECHNOLOGY
 Units: 3.0
@@ -7350,6 +7653,7 @@ Books:
 	(i) Sudhir Kumar Saxena Automobile Engineering, University Science Press, 1st Edition, 2009
 	(ii) VAW Hillier Fundamentals of Motor Vehicle Technology Vol 1 & 2, Nelson Thornes, UK, 6th Edition, 2012
 --------------------------------------------------
+
 Course Code: ME G515
 Course Name: COMPUT FLUID DYNAMICS
 Units: 5.0
@@ -7375,6 +7679,7 @@ Books:
 	(ii) K Muralidhar & T Sundararajan Computational Fluid Flow and Heat Transfer Narosa Book Distributors Pvt Ltd, 2nd Edition, 2009.
 	(iii) H K Versteeg & W Malalasekara Introduction to Computational Fluid Dynamics The Finite Volume Method Pearson Education (Indian Reprint), 2nd Edition, 2007
 --------------------------------------------------
+
 Course Code: ME G538
 Course Name: TOYOTA PRODUCTION SYSTEM
 Units: 5.0
@@ -7394,6 +7699,7 @@ ies.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: ME G539
 Course Name: COMP INTEGRATED MANUFACT
 Units: 5.0
@@ -7413,6 +7719,7 @@ mated Manufacturing and Programmable Controller.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: ME G611
 Course Name: COMP AIDED ANAL & DESIGN
 Units: 5.0
@@ -7435,6 +7742,7 @@ project report.
 Books:
 	Rogers, David F & James A Adams Mathematical Elements for Computer Graphics Tata McGraw-Hill, New York, 2004
 --------------------------------------------------
+
 Course Code: ME G631
 Course Name: ADVANCED HEAT TRANSFER
 Units: 5.0
@@ -7458,6 +7766,7 @@ Books:
 	(ii) A. Bejan Convective Heat Transfer Wiley India Pvt. Ltd, Third Edition, 2004
 	(iii) Michael F. Modest Radiative Heat Transfer Academic Press, 2nd edition, 2003.
 --------------------------------------------------
+
 Course Code: MEL G623
 Course Name: ADVANCED VLSI DESIGN
 Units: 5.0
@@ -7486,6 +7795,7 @@ Books:
 	(i) Kaushik Roy & Sharat C. Prasad Low-Power CMOS VLSI Circuit Design Wiley
 	(ii) Yuan Taur & Tak H. Ning Fundamentals of Modern VLSI Devices Cambridge University Press
 --------------------------------------------------
+
 Course Code: MEL G632
 Course Name: ANALOG IC DESIGN
 Units: 5.0
@@ -7509,6 +7819,7 @@ Noise- Analysis and Estimation In Amplifiers, emerging trends.
 Books:
 	Razavi, Behzad Des. of Analog CMOS Integrated Circuits TMH, 2001
 --------------------------------------------------
+
 Course Code: MEL G641
 Course Name: CAD FOR IC DESIGN
 Units: 5.0
@@ -7531,6 +7842,7 @@ and testing.
 Books:
 	Naveed Sherwani Algorithm for VLSI Physical Automation 3rd Edition, Kluwer Academic Press, 1998
 --------------------------------------------------
+
 Course Code: MEL G642
 Course Name: VLSI ARCHITECTURE
 Units: 4.0
@@ -7553,6 +7865,7 @@ Books:
 	(i) Patterson, David A & JL.Hennessy Computer Organization & Design Elsevier, 4td ed, 2009
 	(ii) Nick Tredenick Nick Tredenick Digital Press, 1987.
 --------------------------------------------------
+
 Course Code: MF F418
 Course Name: LEAN MANUFACTURING
 Units: 3.0
@@ -7576,6 +7889,7 @@ Books:
 	(i) Pascal Dennis Lean Production Simplified 2nd Edition, Productivity Press, 2007
 	(ii) Jeffrey K. Liker, The Toyota Way McGraw-Hill Edition, New Delhi, 2004
 --------------------------------------------------
+
 Course Code: MF F421
 Course Name: SUPPLY CHAIN MANAGEMENT
 Units: 4.0
@@ -7597,6 +7911,7 @@ ming for SCM.
 Books:
 	Sunil Chopra, Peter Meindl and D V Kalra Supply Chain Management: Strategy, Planning and Operation”, Pearson Education Sixth Edition, India, 2016
 --------------------------------------------------
+
 Course Code: MF F485
 Course Name: SUSTAINABLE MANUFACTURING
 Units: 3.0
@@ -7620,6 +7935,7 @@ Books:
 	(ii) Anthony Johnson Sustainability in Engineering Design Elsevier publication, 2014 [2]
 	(iii) Gunther Seliger (ed.) Sustainability in Manufacturing Springer, 2007 [3]
 --------------------------------------------------
+
 Course Code: MGTS F211
 Course Name: PRINCIPLES OF MANAGEMENT
 Units: 3.0
@@ -7638,6 +7954,7 @@ balance sheets.
 Books:
 	Stephen P. Robbins, Mary Coulter & Agna Fernandez Management Pearson Education, 2019, 14th edition.
 --------------------------------------------------
+
 Course Code: MGTS F311
 Course Name: MARKETING
 Units: 3.0
@@ -7659,6 +7976,7 @@ ing mix and strategy.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: MGTS F314
 Course Name: ESSENTIALS OF FINANCIAL MGT.
 Units: 3.0
@@ -7683,6 +8001,7 @@ rivatives, international finance.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: MGTS F315
 Course Name: FOUNDATIONS OF BUSINESS ANALYTICS
 Units: 3.0
@@ -7703,6 +8022,7 @@ Analysis.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: MGTS F316
 Course Name: MANAGERIAL & LEADERSHIP SKILLS
 Units: 3.0
@@ -7724,6 +8044,7 @@ agement.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: MSE G512
 Course Name: MANUFACT PLANNING & CONT
 Units: 4.0
@@ -7748,6 +8069,7 @@ aging projects, strategies for manufacturing excellence.
 Books:
 	Russell R. S. & Taylor B. W., Operations Management”, International Student Version, 7/e John Wiley and Sons (Asia) Pte. Ltd., 2011
 --------------------------------------------------
+
 Course Code: MST G522
 Course Name: ADVANCED COMPOSITES
 Units: 5.0
@@ -7773,6 +8095,7 @@ gy of composites.
 Books:
 	K.K. Chawala Composite materials 2nd ed., (1987) Springer-Verlag, New York.
 --------------------------------------------------
+
 Course Code: PHA F214
 Course Name: ANATOMY PHYSIO & HYGIENE
 Units: 3.0
@@ -7800,6 +8123,7 @@ communicable diseases.
 Books:
 	Marieb,Elaine N Essentials of Human Anatomy & Physiology Pearson Edu., 9th ed.,2009
 --------------------------------------------------
+
 Course Code: PHA F216
 Course Name: PHARMACEUTICAL FORMULATIONS I
 Units: 3.0
@@ -7834,6 +8158,7 @@ lutions etc.
 Books:
 	Cooper and Gunn Dispensing for Pharmaceutical Students CBS , 12th ed. ,1987
 --------------------------------------------------
+
 Course Code: PHA F241
 Course Name: PHARMACEUTICAL CHEMISTRY
 Units: 3.0
@@ -7862,6 +8187,7 @@ Books:
 	(i) L. G. Wade and Maya Shankar Singh Organic Chemistry Pearson, 6th Edition
 	(ii) Bentley and Driver’s Text book of Pharmaceutical Chemistry 8th Edition, Oxford Medical publications
 --------------------------------------------------
+
 Course Code: PHA F242
 Course Name: BIOLOGICAL CHEMISTRY
 Units: 3.0
@@ -7890,6 +8216,7 @@ arising from defects in these pathways.
 Books:
 	Robert K.Murray, et.al Harper’s illustrated biochemistry McGraw Hill Medical Publishers, 29th edition
 --------------------------------------------------
+
 Course Code: PHA F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -7905,6 +8232,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHA F313
 Course Name: INSTRU METHODS OF ANAL
 Units: 4.0
@@ -7933,6 +8261,7 @@ Books:
 	(i) Willard, H.H & Others Instrumental Methods of Analysis CBS , 7th ed , 1988
 	(ii) Parimoo P Pharmaceutical Analysis CBSI, 1988
 --------------------------------------------------
+
 Course Code: PHA F341
 Course Name: PHARMACOLOGY II
 Units: 3.0
@@ -7961,6 +8290,7 @@ ous disease conditions.
 Books:
 	Tripathi KD Essentials of Medical Pharmacology Sixth edition, Jaypee brothers, New Delhi 2008
 --------------------------------------------------
+
 Course Code: PHA F342
 Course Name: MEDICINAL CHEMISTRY II
 Units: 3.0
@@ -7990,6 +8320,7 @@ Books:
 	(i) William O Foye Principles of Medicinal Chemistry Sixth Edition, Lea and Febiger, Phil., 2008
 	(ii) D . Sriram & P. Yogeeswari Medicinal Chemistry Pearson Education, second Edition, 2010.( or latest)
 --------------------------------------------------
+
 Course Code: PHA F343
 Course Name: FORENSIC PHARMACY
 Units: 2.0
@@ -8008,6 +8339,7 @@ aspects; history and ethics of the profession of pharmacy.
 Books:
 	Mithal B.M. Textbook of Forensic Pharmacy Vallabh, 10th ed, 1999
 --------------------------------------------------
+
 Course Code: PHA F344
 Course Name: NATURAL DRUGS
 Units: 3.0
@@ -8033,6 +8365,7 @@ adulterants.
 Books:
 	Evans, W C and D. Evan Trease & Evans' Pharmacognosy Saunders , 16th ed , 2009
 --------------------------------------------------
+
 Course Code: PHA F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -8044,6 +8377,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHA F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -8059,6 +8393,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHA F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -8070,6 +8405,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHA F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -8085,6 +8421,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHA F413
 Course Name: PHARMA MANG & QUAL CONTR
 Units: 3.0
@@ -8104,6 +8441,7 @@ Books:
 	(i) Khanna, O.P. Industrial Engineering & Mgt Dhanpat Rai , Rev.ed , 1999
 	(ii) Sidney H. Willing; Marcel Dekker Good Manuf Prac for Phar:A Plan for Total Q.C. Marcel Dekker , 6th ed , 2007
 --------------------------------------------------
+
 Course Code: PHA F414
 Course Name: BIOPHARMACEUTICS
 Units: 3.0
@@ -8122,6 +8460,7 @@ lated matters.
 Books:
 	Brahmankar, D M and Jaiswal, S N Biopharmaceutics and Pharmacokinetics - A treatise Vallabh , 2nd ed., 2009
 --------------------------------------------------
+
 Course Code: PHA F417
 Course Name: PHARMACOECONOMICS
 Units: 3.0
@@ -8144,6 +8483,7 @@ covered.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: PHA G532
 Course Name: Q A & REGULATORY AFFAIRS
 Units: 5.0
@@ -8167,6 +8507,7 @@ Books:
 	(ii) Alfred H. Wachter and Robert A. Nash Pharmaceutical Process Validation Marcel Dekker, New York, 2nd Edn., Vol. 129, 2014
 	(iii) Shein-Chung Chow, Jen-Pei Liu Design and analysis of clinical trials Wiley-IEEE, 2003
 --------------------------------------------------
+
 Course Code: PHA G546
 Course Name: PHARMACEUTICAL BIO STATISTICS
 Units: 3.0
@@ -8186,6 +8527,7 @@ study;estimating bio-equivalence of pharmaceutical products
 Books:
 	Sanford Bolton and Charles Bon Pharmaceutical Statistics: Practical and Clinical Applications Fifth Edition.(Informa Healthcare, 2007).
 --------------------------------------------------
+
 Course Code: PHA G611
 Course Name: ADVANCED PHARMACOLOGY
 Units: 5.0
@@ -8212,6 +8554,7 @@ py.
 Books:
 	Goodman & Gilman’s The Pharmacological basis of Therapeutics McGraw Hill, 10th ed., 2001
 --------------------------------------------------
+
 Course Code: PHA G612
 Course Name: PHARM KINET & CLINIC PHA
 Units: 5.0
@@ -8238,6 +8581,7 @@ pharmacokinetic principles for better therapeutic outcomes.
 Books:
 	Gibaldi M & D Perrier Pharmacokinetics Marcel Dekker , 2nd ed. , 1982
 --------------------------------------------------
+
 Course Code: PHA G617
 Course Name: ADV DRUG DELIVERY SYSTEM
 Units: 5.0
@@ -8259,6 +8603,7 @@ delivery systems.
 Books:
 	Tyle, P Specialized Drug Delivery Systems- Manufacturing and Production Technology Marcel Dekker, New York, 1990
 --------------------------------------------------
+
 Course Code: PHA G624
 Course Name: PRINCIPLES OF TOXICOLOGY
 Units: 5.0
@@ -8278,6 +8623,7 @@ ty pharmacology.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: PHY F110
 Course Name: PHYSICS LABORATORY
 Units: 1.0
@@ -8325,6 +8671,7 @@ experimental physics.
 Books:
 	Lab manual for Physics
 --------------------------------------------------
+
 Course Code: PHY F111
 Course Name: MECH OSCIL & WAVES
 Units: 3.0
@@ -8369,6 +8716,7 @@ Books:
 	(i) by D. Kleppner and R. Kolenkow An Introduction to Mechanics Cambridge University Press, Second edition 2021
 	(ii) French, Anthony P Vibrations and Waves CBS,2003
 --------------------------------------------------
+
 Course Code: PHY F215
 Course Name: INTRO TO ASTRO & ASTROPH
 Units: 3.0
@@ -8388,6 +8736,7 @@ crowave background radiation, the early universe.
 Books:
 	Hannu Karttunen Fundamentals of Astronomy 6th edition 2017 edition,Springer
 --------------------------------------------------
+
 Course Code: PHY F241
 Course Name: ELECTROMAGNETIC THEORY II
 Units: 4.0
@@ -8414,6 +8763,7 @@ tivistic electrodynamics.
 Books:
 	David Griffiths, J Introduction to Electrodynamics PHI, 4th ed. 2018
 --------------------------------------------------
+
 Course Code: PHY F242
 Course Name: QUANTUM MECHANICS I
 Units: 3.0
@@ -8442,6 +8792,7 @@ of Hermitian operators, the measurement postulate.
 Books:
 	D J Griffiths Introduction to Quantum Mechanics LPE, Pearson 2nd edition
 --------------------------------------------------
+
 Course Code: PHY F243
 Course Name: MATHEMATICAL METHODS OF PHYSICS
 Units: 3.0
@@ -8465,6 +8816,7 @@ Books:
 	(i) Arfken, Weber, Harris Mathematical Methods for Physicists 7th edition, Academic Press, 2012
 	(ii) Philippe Dennery, Andre Krzywicki Mathematics for Physicists Dover Books on Physics, Dover Publications Inc, 1996
 --------------------------------------------------
+
 Course Code: PHY F244
 Course Name: MODERN PHYSICS LAB
 Units: 2.0
@@ -8481,6 +8833,7 @@ tromagnetism.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F266
 Course Name: STUDY PROJECT
 Units: 3.0
@@ -8496,6 +8849,7 @@ These courses must coterminate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F315
 Course Name: THEORY OF RELATIVITY
 Units: 3.0
@@ -8517,6 +8871,7 @@ VI-
 Books:
 	Robert Resnick Introduction to Special Relativity Wiley India Ltd
 --------------------------------------------------
+
 Course Code: PHY F341
 Course Name: SOLID STATE PHYSICS
 Units: 3.0
@@ -8541,6 +8896,7 @@ the London equation, elements of BCS theory.
 Books:
 	D. L. Sidebottom Fundamentals of Condensed Matter Physics and Crystalline Physics Cambridge University Press
 --------------------------------------------------
+
 Course Code: PHY F342
 Course Name: ATOMIC & MOLECULAR PHY
 Units: 3.0
@@ -8569,6 +8925,7 @@ molecules, nuclear spin.
 Books:
 	Bransden B.H, Joachain C.J. Physics of Atoms and Molecules Pearson, 2nd ed. 2001.
 --------------------------------------------------
+
 Course Code: PHY F343
 Course Name: NUCLEAR & PARTICLE PHY
 Units: 3.0
@@ -8600,6 +8957,7 @@ cle physics.
 Books:
 	A. Das, T. Ferbel Introduction to nuclear and particle physics Publisher - World Scientific Publishing Ltd
 --------------------------------------------------
+
 Course Code: PHY F344
 Course Name: ADVANCED PHYSICS LAB
 Units: 3.0
@@ -8614,6 +8972,7 @@ troscopy and nuclear physics.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F366
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -8625,6 +8984,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F367
 Course Name: LABORATORY PROJECT
 Units: 3.0
@@ -8640,6 +9000,7 @@ with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F376
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -8651,6 +9012,7 @@ Description:
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F377
 Course Name: DESIGN PROJECT
 Units: 3.0
@@ -8666,6 +9028,7 @@ nate with project reports.
 Books:
 	No text book required
 --------------------------------------------------
+
 Course Code: PHY F379
 Course Name: THIN FILM TECHNOLOGY
 Units: 3.0
@@ -8687,6 +9050,7 @@ based experiments or assignments related to thin films.
 Books:
 	TO BE ANNOUNCED
 --------------------------------------------------
+
 Course Code: PHY F412
 Course Name: INTRO TO QUAN FIELD THEO
 Units: 4.0
@@ -8709,6 +9073,7 @@ Books:
 	(i) M. Peskin & D. Schroeder An Introduction to Quantum Field Theory Sarat Book House
 	(ii) A. Zee Quantum Field Theory in a Nutshell [Princeton University Press]
 --------------------------------------------------
+
 Course Code: PHY F413
 Course Name: PARTICLE PHYSICS
 Units: 4.0
@@ -8732,6 +9097,7 @@ Books:
 	(i) Francis Halzen & Alan D. Martin (H-M) Quarks and Leptons: An Introductory Course in Modern Particle Physics
 	(ii) David Griffiths (G) Introduction to Elementary Particles
 --------------------------------------------------
+
 Course Code: PHY F420
 Course Name: QUANTUM OPTICS
 Units: 4.0
@@ -8750,3 +9116,4 @@ terferometry, squeezed states, lasers.
 Books:
 	C. Gerry and P. Knight Introductory Quantum Optics Cambridge University Press, 2005
 --------------------------------------------------
+

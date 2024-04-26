@@ -9,14 +9,13 @@ raw_text = ""
 with open("data/courses.txt", "r", encoding="utf-8") as f:
     raw_text = f.read()
 
-
 text_splitter = CharacterTextSplitter(
-    separator="\n",
+    separator="\n\n",
     chunk_size=900,
-    chunk_overlap=100,
+    chunk_overlap=150,
 )
 texts = text_splitter.split_text(raw_text)
-
+print(texts)
 embeddings = OpenAIEmbeddings()
 db = FAISS.from_texts(texts, embeddings)
 db.save_local("faiss_index")
